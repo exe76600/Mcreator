@@ -1,0 +1,24 @@
+{
+  "group": "morethingsmod",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0",
+    "1",
+    "2"
+  ],
+  "key": {
+    "0": {
+      "item": "morethingsmod:lingotcopper"
+    },
+    "1": {
+      "item": "morethingsmod:lingotcopper"
+    },
+    "2": {
+      "item": "minecraft:stick"
+    }
+  },
+  "result": {
+    "item": "morethingsmod:epeecopper",
+    "count": 1
+  }
+}

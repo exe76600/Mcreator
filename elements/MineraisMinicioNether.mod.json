@@ -1,0 +1,90 @@
+{
+  "_fv": 5,
+  "_type": "block",
+  "definition": {
+    "texture": "minicio_ore_nether",
+    "textureTop": "minicio_ore_nether",
+    "textureLeft": "minicio_ore_nether",
+    "textureFront": "minicio_ore_nether",
+    "textureRight": "minicio_ore_nether",
+    "textureBack": "minicio_ore_nether",
+    "renderType": 10,
+    "customModelName": "Normal",
+    "rotationMode": 0,
+    "hasTransparency": false,
+    "transparencyType": "SOLID",
+    "mx": 0.0,
+    "my": 0.0,
+    "mz": 0.0,
+    "Mx": 1.0,
+    "My": 1.0,
+    "Mz": 1.0,
+    "faceShape": "SOLID",
+    "name": "Nether Minicio Ore",
+    "specialInfo": [],
+    "hardness": 4.0,
+    "resistance": 15.0,
+    "hasGravity": false,
+    "creativeTab": {
+      "value": "CUSTOM:MoreThingsMod"
+    },
+    "destroyTool": "pickaxe",
+    "affectedBySilkTouch": true,
+    "customDrop": {
+      "value": "CUSTOM:Minicio"
+    },
+    "dropAmount": 8,
+    "isBeaconBase": false,
+    "enchantPowerBonus": 0.0,
+    "plantsGrowOn": false,
+    "canProvidePower": false,
+    "lightOpacity": 255,
+    "material": {
+      "value": "ROCK"
+    },
+    "tickRate": 10,
+    "isReplaceable": false,
+    "isFlammable": false,
+    "colorOnMap": "DEFAULT",
+    "creativePickItem": {
+      "value": ""
+    },
+    "isNotColidable": false,
+    "soundOnStep": {
+      "value": "STONE"
+    },
+    "luminance": 0.0,
+    "unbreakable": false,
+    "breakHarvestLevel": 2,
+    "spawnParticles": false,
+    "particleToSpawn": {
+      "value": "EXPLOSION_NORMAL"
+    },
+    "particleSpawningShape": "Spread",
+    "particleSpawningRadious": 0.5,
+    "particleAmount": 4,
+    "particleSpawningCondition": "ALWAYS",
+    "hasInventory": false,
+    "inventorySize": 9,
+    "inventoryStackSize": 64,
+    "inventoryDropWhenDestroyed": true,
+    "inventoryComparatorPower": true,
+    "inventoryOutSlotIDs": [],
+    "onDestroyedByPlayer": {
+      "name": "MineraisMinicioNetherBlockDestroyedByPlayer"
+    },
+    "spawnWorldTypes": [
+      "Nether"
+    ],
+    "restrictionBiomes": [],
+    "blocksToReplace": [
+      {
+        "value": "Blocks.NETHERRACK"
+      }
+    ],
+    "frequencyPerChunks": 15,
+    "frequencyOnChunk": 12,
+    "minGenerateHeight": 4,
+    "maxGenerateHeight": 124
+  }
+}

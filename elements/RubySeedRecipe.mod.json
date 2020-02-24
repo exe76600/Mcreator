@@ -1,0 +1,45 @@
+{
+  "_fv": 5,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "recipeRetstackSize": 1,
+    "recipeShapeless": false,
+    "recipeReturnStack": {
+      "value": "CUSTOM:RubySeed"
+    },
+    "recipeSlots": [
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:LingotRubis"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:LingotRubis"
+      },
+      {
+        "value": "CUSTOM:ZivicioSeed"
+      },
+      {
+        "value": "CUSTOM:LingotRubis"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:LingotRubis"
+      },
+      {
+        "value": ""
+      }
+    ],
+    "smeltingXPReward": 0.0,
+    "smeltingRetstackSize": 1,
+    "name": "rubyseedrecipe",
+    "namespace": "mod"
+  }
+}

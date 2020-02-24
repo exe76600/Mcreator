@@ -1,0 +1,45 @@
+{
+  "_fv": 5,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "recipeRetstackSize": 1,
+    "recipeShapeless": false,
+    "recipeReturnStack": {
+      "value": "Items.DIAMOND"
+    },
+    "recipeSlots": [
+      {
+        "value": "CUSTOM:DiamondNugget"
+      },
+      {
+        "value": "CUSTOM:DiamondNugget"
+      },
+      {
+        "value": "CUSTOM:DiamondNugget"
+      },
+      {
+        "value": "CUSTOM:DiamondNugget"
+      },
+      {
+        "value": "CUSTOM:DiamondNugget"
+      },
+      {
+        "value": "CUSTOM:DiamondNugget"
+      },
+      {
+        "value": "CUSTOM:DiamondNugget"
+      },
+      {
+        "value": "CUSTOM:DiamondNugget"
+      },
+      {
+        "value": "CUSTOM:DiamondNugget"
+      }
+    ],
+    "smeltingXPReward": 0.0,
+    "smeltingRetstackSize": 1,
+    "name": "diamondrecipe",
+    "namespace": "mod"
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "group": "morethingsmod",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "morethingsmod:rubyfragment"
+    },
+    "1": {
+      "item": "morethingsmod:rubyfragment"
+    },
+    "2": {
+      "item": "morethingsmod:rubyfragment"
+    },
+    "3": {
+      "item": "morethingsmod:rubyfragment"
+    },
+    "4": {
+      "item": "morethingsmod:rubyfragment"
+    },
+    "5": {
+      "item": "morethingsmod:rubyfragment"
+    },
+    "6": {
+      "item": "morethingsmod:rubyfragment"
+    },
+    "7": {
+      "item": "morethingsmod:rubyfragment"
+    },
+    "8": {
+      "item": "morethingsmod:rubyfragment"
+    }
+  },
+  "result": {
+    "item": "morethingsmod:rubynugget",
+    "count": 1
+  }
+}

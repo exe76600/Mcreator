@@ -1,0 +1,26 @@
+{
+  "group": "morethingsmod",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0 2",
+    "3 5"
+  ],
+  "key": {
+    "0": {
+      "item": "morethingsmod:lingotagate"
+    },
+    "2": {
+      "item": "morethingsmod:lingotagate"
+    },
+    "3": {
+      "item": "morethingsmod:lingotagate"
+    },
+    "5": {
+      "item": "morethingsmod:lingotagate"
+    }
+  },
+  "result": {
+    "item": "morethingsmod:agateboots",
+    "count": 1
+  }
+}

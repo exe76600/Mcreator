@@ -1,0 +1,45 @@
+{
+  "_fv": 5,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "recipeRetstackSize": 1,
+    "recipeShapeless": false,
+    "recipeReturnStack": {
+      "value": "CUSTOM:CobaltSeed"
+    },
+    "recipeSlots": [
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:LingotCobalt"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:LingotCobalt"
+      },
+      {
+        "value": "CUSTOM:ZivicioSeed"
+      },
+      {
+        "value": "CUSTOM:LingotCobalt"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:LingotCobalt"
+      },
+      {
+        "value": ""
+      }
+    ],
+    "smeltingXPReward": 0.0,
+    "smeltingRetstackSize": 1,
+    "name": "cobaltseedrecipe",
+    "namespace": "mod"
+  }
+}

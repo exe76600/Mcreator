@@ -1,0 +1,42 @@
+{
+  "group": "morethingsmod",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "morethingsmod:uraniumfragment"
+    },
+    "1": {
+      "item": "morethingsmod:uraniumfragment"
+    },
+    "2": {
+      "item": "morethingsmod:uraniumfragment"
+    },
+    "3": {
+      "item": "morethingsmod:uraniumfragment"
+    },
+    "4": {
+      "item": "morethingsmod:uraniumfragment"
+    },
+    "5": {
+      "item": "morethingsmod:uraniumfragment"
+    },
+    "6": {
+      "item": "morethingsmod:uraniumfragment"
+    },
+    "7": {
+      "item": "morethingsmod:uraniumfragment"
+    },
+    "8": {
+      "item": "morethingsmod:uraniumfragment"
+    }
+  },
+  "result": {
+    "item": "morethingsmod:uraniumnugget",
+    "count": 1
+  }
+}

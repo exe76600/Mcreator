@@ -1,0 +1,45 @@
+{
+  "_fv": 5,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "recipeRetstackSize": 1,
+    "recipeShapeless": false,
+    "recipeReturnStack": {
+      "value": "CUSTOM:BlockCrucio"
+    },
+    "recipeSlots": [
+      {
+        "value": "CUSTOM:Crucio"
+      },
+      {
+        "value": "CUSTOM:Crucio"
+      },
+      {
+        "value": "CUSTOM:Crucio"
+      },
+      {
+        "value": "CUSTOM:Crucio"
+      },
+      {
+        "value": "CUSTOM:Crucio"
+      },
+      {
+        "value": "CUSTOM:Crucio"
+      },
+      {
+        "value": "CUSTOM:Crucio"
+      },
+      {
+        "value": "CUSTOM:Crucio"
+      },
+      {
+        "value": "CUSTOM:Crucio"
+      }
+    ],
+    "smeltingXPReward": 0.0,
+    "smeltingRetstackSize": 1,
+    "name": "blockcruciorecipe",
+    "namespace": "mod"
+  }
+}

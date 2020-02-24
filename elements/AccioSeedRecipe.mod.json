@@ -1,0 +1,45 @@
+{
+  "_fv": 5,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "recipeRetstackSize": 1,
+    "recipeShapeless": false,
+    "recipeReturnStack": {
+      "value": "CUSTOM:AccioSeed"
+    },
+    "recipeSlots": [
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:Accio"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:Accio"
+      },
+      {
+        "value": "CUSTOM:MinicioSeed"
+      },
+      {
+        "value": "CUSTOM:Accio"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:Accio"
+      },
+      {
+        "value": ""
+      }
+    ],
+    "smeltingXPReward": 0.0,
+    "smeltingRetstackSize": 1,
+    "name": "accioseedrecipe",
+    "namespace": "mod"
+  }
+}

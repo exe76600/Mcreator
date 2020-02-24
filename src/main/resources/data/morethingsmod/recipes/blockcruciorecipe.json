@@ -1,0 +1,42 @@
+{
+  "group": "morethingsmod",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "morethingsmod:crucio"
+    },
+    "1": {
+      "item": "morethingsmod:crucio"
+    },
+    "2": {
+      "item": "morethingsmod:crucio"
+    },
+    "3": {
+      "item": "morethingsmod:crucio"
+    },
+    "4": {
+      "item": "morethingsmod:crucio"
+    },
+    "5": {
+      "item": "morethingsmod:crucio"
+    },
+    "6": {
+      "item": "morethingsmod:crucio"
+    },
+    "7": {
+      "item": "morethingsmod:crucio"
+    },
+    "8": {
+      "item": "morethingsmod:crucio"
+    }
+  },
+  "result": {
+    "item": "morethingsmod:blockcrucio",
+    "count": 1
+  }
+}

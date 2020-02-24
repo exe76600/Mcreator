@@ -1,0 +1,42 @@
+{
+  "group": "morethingsmod",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "morethingsmod:agatefragment"
+    },
+    "1": {
+      "item": "morethingsmod:agatefragment"
+    },
+    "2": {
+      "item": "morethingsmod:agatefragment"
+    },
+    "3": {
+      "item": "morethingsmod:agatefragment"
+    },
+    "4": {
+      "item": "morethingsmod:agatefragment"
+    },
+    "5": {
+      "item": "morethingsmod:agatefragment"
+    },
+    "6": {
+      "item": "morethingsmod:agatefragment"
+    },
+    "7": {
+      "item": "morethingsmod:agatefragment"
+    },
+    "8": {
+      "item": "morethingsmod:agatefragment"
+    }
+  },
+  "result": {
+    "item": "morethingsmod:agatenugget",
+    "count": 1
+  }
+}

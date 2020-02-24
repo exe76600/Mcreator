@@ -1,0 +1,42 @@
+{
+  "group": "morethingsmod",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "morethingsmod:accio"
+    },
+    "1": {
+      "item": "morethingsmod:accio"
+    },
+    "2": {
+      "item": "morethingsmod:accio"
+    },
+    "3": {
+      "item": "morethingsmod:accio"
+    },
+    "4": {
+      "item": "morethingsmod:accio"
+    },
+    "5": {
+      "item": "morethingsmod:accio"
+    },
+    "6": {
+      "item": "morethingsmod:accio"
+    },
+    "7": {
+      "item": "morethingsmod:accio"
+    },
+    "8": {
+      "item": "morethingsmod:accio"
+    }
+  },
+  "result": {
+    "item": "morethingsmod:blockaccio",
+    "count": 1
+  }
+}

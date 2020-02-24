@@ -1,0 +1,30 @@
+{
+  "group": "morethingsmod",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "01",
+    "23",
+    "4 "
+  ],
+  "key": {
+    "0": {
+      "item": "morethingsmod:lingotcobalt"
+    },
+    "1": {
+      "item": "morethingsmod:lingotcobalt"
+    },
+    "2": {
+      "item": "minecraft:stick"
+    },
+    "3": {
+      "item": "morethingsmod:lingotcobalt"
+    },
+    "4": {
+      "item": "minecraft:stick"
+    }
+  },
+  "result": {
+    "item": "morethingsmod:hachecobalt",
+    "count": 1
+  }
+}

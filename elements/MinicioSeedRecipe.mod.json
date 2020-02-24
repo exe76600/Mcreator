@@ -1,0 +1,45 @@
+{
+  "_fv": 5,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "recipeRetstackSize": 1,
+    "recipeShapeless": false,
+    "recipeReturnStack": {
+      "value": "CUSTOM:MinicioSeed"
+    },
+    "recipeSlots": [
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:Minicio"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:Minicio"
+      },
+      {
+        "value": "Items.WHEAT_SEEDS"
+      },
+      {
+        "value": "CUSTOM:Minicio"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:Minicio"
+      },
+      {
+        "value": ""
+      }
+    ],
+    "smeltingXPReward": 0.0,
+    "smeltingRetstackSize": 1,
+    "name": "minicioseedrecipe",
+    "namespace": "mod"
+  }
+}

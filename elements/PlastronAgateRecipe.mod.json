@@ -1,0 +1,45 @@
+{
+  "_fv": 5,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "recipeRetstackSize": 1,
+    "recipeShapeless": false,
+    "recipeReturnStack": {
+      "value": "CUSTOM:Agate.body"
+    },
+    "recipeSlots": [
+      {
+        "value": "CUSTOM:LingotAgate"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:LingotAgate"
+      },
+      {
+        "value": "CUSTOM:LingotAgate"
+      },
+      {
+        "value": "CUSTOM:LingotAgate"
+      },
+      {
+        "value": "CUSTOM:LingotAgate"
+      },
+      {
+        "value": "CUSTOM:LingotAgate"
+      },
+      {
+        "value": "CUSTOM:LingotAgate"
+      },
+      {
+        "value": "CUSTOM:LingotAgate"
+      }
+    ],
+    "smeltingXPReward": 0.0,
+    "smeltingRetstackSize": 1,
+    "name": "plastronagaterecipe",
+    "namespace": "mod"
+  }
+}

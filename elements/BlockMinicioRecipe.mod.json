@@ -1,0 +1,45 @@
+{
+  "_fv": 5,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "recipeRetstackSize": 1,
+    "recipeShapeless": false,
+    "recipeReturnStack": {
+      "value": "CUSTOM:BlockMinicio"
+    },
+    "recipeSlots": [
+      {
+        "value": "CUSTOM:Minicio"
+      },
+      {
+        "value": "CUSTOM:Minicio"
+      },
+      {
+        "value": "CUSTOM:Minicio"
+      },
+      {
+        "value": "CUSTOM:Minicio"
+      },
+      {
+        "value": "CUSTOM:Minicio"
+      },
+      {
+        "value": "CUSTOM:Minicio"
+      },
+      {
+        "value": "CUSTOM:Minicio"
+      },
+      {
+        "value": "CUSTOM:Minicio"
+      },
+      {
+        "value": "CUSTOM:Minicio"
+      }
+    ],
+    "smeltingXPReward": 0.0,
+    "smeltingRetstackSize": 1,
+    "name": "blockminiciorecipe",
+    "namespace": "mod"
+  }
+}

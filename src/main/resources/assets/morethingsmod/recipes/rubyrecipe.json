@@ -1,0 +1,42 @@
+{
+  "group": "morethingsmod",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "morethingsmod:rubynugget"
+    },
+    "1": {
+      "item": "morethingsmod:rubynugget"
+    },
+    "2": {
+      "item": "morethingsmod:rubynugget"
+    },
+    "3": {
+      "item": "morethingsmod:rubynugget"
+    },
+    "4": {
+      "item": "morethingsmod:rubynugget"
+    },
+    "5": {
+      "item": "morethingsmod:rubynugget"
+    },
+    "6": {
+      "item": "morethingsmod:rubynugget"
+    },
+    "7": {
+      "item": "morethingsmod:rubynugget"
+    },
+    "8": {
+      "item": "morethingsmod:rubynugget"
+    }
+  },
+  "result": {
+    "item": "morethingsmod:lingotrubis",
+    "count": 1
+  }
+}

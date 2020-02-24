@@ -1,0 +1,42 @@
+{
+  "group": "morethingsmod",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "morethingsmod:blockzivicio"
+    },
+    "1": {
+      "item": "morethingsmod:blockzivicio"
+    },
+    "2": {
+      "item": "morethingsmod:blockzivicio"
+    },
+    "3": {
+      "item": "morethingsmod:blockzivicio"
+    },
+    "4": {
+      "item": "morethingsmod:blockzivicio"
+    },
+    "5": {
+      "item": "morethingsmod:blockzivicio"
+    },
+    "6": {
+      "item": "morethingsmod:blockzivicio"
+    },
+    "7": {
+      "item": "morethingsmod:blockzivicio"
+    },
+    "8": {
+      "item": "morethingsmod:blockzivicio"
+    }
+  },
+  "result": {
+    "item": "morethingsmod:blockcondensedzivicio",
+    "count": 1
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "group": "morethingsmod",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "morethingsmod:goldfragment"
+    },
+    "1": {
+      "item": "morethingsmod:goldfragment"
+    },
+    "2": {
+      "item": "morethingsmod:goldfragment"
+    },
+    "3": {
+      "item": "morethingsmod:goldfragment"
+    },
+    "4": {
+      "item": "morethingsmod:goldfragment"
+    },
+    "5": {
+      "item": "morethingsmod:goldfragment"
+    },
+    "6": {
+      "item": "morethingsmod:goldfragment"
+    },
+    "7": {
+      "item": "morethingsmod:goldfragment"
+    },
+    "8": {
+      "item": "morethingsmod:goldfragment"
+    }
+  },
+  "result": {
+    "item": "minecraft:gold_nugget",
+    "count": 1
+  }
+}

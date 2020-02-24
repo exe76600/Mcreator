@@ -1,0 +1,45 @@
+{
+  "_fv": 5,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "recipeRetstackSize": 1,
+    "recipeShapeless": false,
+    "recipeReturnStack": {
+      "value": "CUSTOM:Agate.helmet"
+    },
+    "recipeSlots": [
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:LingotAgate"
+      },
+      {
+        "value": "CUSTOM:LingotAgate"
+      },
+      {
+        "value": "CUSTOM:LingotAgate"
+      },
+      {
+        "value": "CUSTOM:LingotAgate"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:LingotAgate"
+      }
+    ],
+    "smeltingXPReward": 0.0,
+    "smeltingRetstackSize": 1,
+    "name": "casqueagaterecipe",
+    "namespace": "mod"
+  }
+}

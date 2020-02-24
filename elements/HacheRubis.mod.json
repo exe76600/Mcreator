@@ -1,0 +1,30 @@
+{
+  "_fv": 5,
+  "_type": "tool",
+  "definition": {
+    "renderType": 0,
+    "texture": "rubis_axe",
+    "customModelName": "Normal",
+    "name": "Ruby Axe",
+    "creativeTab": {
+      "value": "CUSTOM:MoreThingsMod"
+    },
+    "toolType": "Axe",
+    "harvestLevel": 3,
+    "efficiency": 4.0,
+    "attackSpeed": 1.0,
+    "enchantability": 10,
+    "damageVsEntity": 10.0,
+    "usageCount": 4000,
+    "blocksAffected": [],
+    "hasGlow": false,
+    "repairItems": [
+      {
+        "value": "CUSTOM:LingotRubis"
+      },
+      {
+        "value": "CUSTOM:HacheRubis"
+      }
+    ]
+  }
+}

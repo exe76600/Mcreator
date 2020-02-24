@@ -1,0 +1,13 @@
+{
+  "group": "morethingsmod",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "morethingsmod:blockcopper"
+    }
+  ],
+  "result": {
+    "item": "morethingsmod:lingotcopper",
+    "count": 9
+  }
+}

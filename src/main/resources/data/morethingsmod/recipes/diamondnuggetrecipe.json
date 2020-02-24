@@ -1,0 +1,42 @@
+{
+  "group": "morethingsmod",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "morethingsmod:diamondfragment"
+    },
+    "1": {
+      "item": "morethingsmod:diamondfragment"
+    },
+    "2": {
+      "item": "morethingsmod:diamondfragment"
+    },
+    "3": {
+      "item": "morethingsmod:diamondfragment"
+    },
+    "4": {
+      "item": "morethingsmod:diamondfragment"
+    },
+    "5": {
+      "item": "morethingsmod:diamondfragment"
+    },
+    "6": {
+      "item": "morethingsmod:diamondfragment"
+    },
+    "7": {
+      "item": "morethingsmod:diamondfragment"
+    },
+    "8": {
+      "item": "morethingsmod:diamondfragment"
+    }
+  },
+  "result": {
+    "item": "morethingsmod:diamondnugget",
+    "count": 1
+  }
+}

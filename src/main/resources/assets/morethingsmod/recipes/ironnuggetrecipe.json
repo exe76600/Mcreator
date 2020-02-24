@@ -1,0 +1,42 @@
+{
+  "group": "morethingsmod",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "morethingsmod:ironfragment"
+    },
+    "1": {
+      "item": "morethingsmod:ironfragment"
+    },
+    "2": {
+      "item": "morethingsmod:ironfragment"
+    },
+    "3": {
+      "item": "morethingsmod:ironfragment"
+    },
+    "4": {
+      "item": "morethingsmod:ironfragment"
+    },
+    "5": {
+      "item": "morethingsmod:ironfragment"
+    },
+    "6": {
+      "item": "morethingsmod:ironfragment"
+    },
+    "7": {
+      "item": "morethingsmod:ironfragment"
+    },
+    "8": {
+      "item": "morethingsmod:ironfragment"
+    }
+  },
+  "result": {
+    "item": "minecraft:iron_nugget",
+    "count": 1
+  }
+}

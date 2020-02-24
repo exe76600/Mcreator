@@ -1,0 +1,13 @@
+{
+  "group": "morethingsmod",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "morethingsmod:blockrubis"
+    }
+  ],
+  "result": {
+    "item": "morethingsmod:lingotrubis",
+    "count": 9
+  }
+}

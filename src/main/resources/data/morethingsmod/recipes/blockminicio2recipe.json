@@ -1,0 +1,13 @@
+{
+  "group": "morethingsmod",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "morethingsmod:blockminicio"
+    }
+  ],
+  "result": {
+    "item": "morethingsmod:minicio",
+    "count": 9
+  }
+}

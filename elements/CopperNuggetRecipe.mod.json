@@ -1,0 +1,45 @@
+{
+  "_fv": 5,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "recipeRetstackSize": 1,
+    "recipeShapeless": false,
+    "recipeReturnStack": {
+      "value": "CUSTOM:CopperNugget"
+    },
+    "recipeSlots": [
+      {
+        "value": "CUSTOM:CopperFragment"
+      },
+      {
+        "value": "CUSTOM:CopperFragment"
+      },
+      {
+        "value": "CUSTOM:CopperFragment"
+      },
+      {
+        "value": "CUSTOM:CopperFragment"
+      },
+      {
+        "value": "CUSTOM:CopperFragment"
+      },
+      {
+        "value": "CUSTOM:CopperFragment"
+      },
+      {
+        "value": "CUSTOM:CopperFragment"
+      },
+      {
+        "value": "CUSTOM:CopperFragment"
+      },
+      {
+        "value": "CUSTOM:CopperFragment"
+      }
+    ],
+    "smeltingXPReward": 0.0,
+    "smeltingRetstackSize": 1,
+    "name": "coppernuggetrecipe",
+    "namespace": "mod"
+  }
+}

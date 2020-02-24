@@ -1,0 +1,42 @@
+{
+  "group": "morethingsmod",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "morethingsmod:imperio"
+    },
+    "1": {
+      "item": "morethingsmod:imperio"
+    },
+    "2": {
+      "item": "morethingsmod:imperio"
+    },
+    "3": {
+      "item": "morethingsmod:imperio"
+    },
+    "4": {
+      "item": "morethingsmod:imperio"
+    },
+    "5": {
+      "item": "morethingsmod:imperio"
+    },
+    "6": {
+      "item": "morethingsmod:imperio"
+    },
+    "7": {
+      "item": "morethingsmod:imperio"
+    },
+    "8": {
+      "item": "morethingsmod:imperio"
+    }
+  },
+  "result": {
+    "item": "morethingsmod:blockimperio",
+    "count": 1
+  }
+}

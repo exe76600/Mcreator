@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "morethingsmod:blocks/zivicio_block",
+    "up": "morethingsmod:blocks/zivicio_block",
+    "north": "morethingsmod:blocks/zivicio_block",
+    "east": "morethingsmod:blocks/zivicio_block",
+    "south": "morethingsmod:blocks/zivicio_block",
+    "west": "morethingsmod:blocks/zivicio_block",
+    "particle": "morethingsmod:blocks/zivicio_block"
+  }
+}

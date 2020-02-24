@@ -1,0 +1,45 @@
+{
+  "_fv": 5,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "recipeRetstackSize": 1,
+    "recipeShapeless": false,
+    "recipeReturnStack": {
+      "value": "CUSTOM:Cobalt.helmet"
+    },
+    "recipeSlots": [
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:LingotCobalt"
+      },
+      {
+        "value": "CUSTOM:LingotCobalt"
+      },
+      {
+        "value": "CUSTOM:LingotCobalt"
+      },
+      {
+        "value": "CUSTOM:LingotCobalt"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:LingotCobalt"
+      }
+    ],
+    "smeltingXPReward": 0.0,
+    "smeltingRetstackSize": 1,
+    "name": "casquecobaltrecipe",
+    "namespace": "mod"
+  }
+}

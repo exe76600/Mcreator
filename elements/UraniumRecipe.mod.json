@@ -1,0 +1,45 @@
+{
+  "_fv": 5,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "recipeRetstackSize": 1,
+    "recipeShapeless": false,
+    "recipeReturnStack": {
+      "value": "CUSTOM:UraniumCoal"
+    },
+    "recipeSlots": [
+      {
+        "value": "CUSTOM:UraniumNugget"
+      },
+      {
+        "value": "CUSTOM:UraniumNugget"
+      },
+      {
+        "value": "CUSTOM:UraniumNugget"
+      },
+      {
+        "value": "CUSTOM:UraniumNugget"
+      },
+      {
+        "value": "CUSTOM:UraniumNugget"
+      },
+      {
+        "value": "CUSTOM:UraniumNugget"
+      },
+      {
+        "value": "CUSTOM:UraniumNugget"
+      },
+      {
+        "value": "CUSTOM:UraniumNugget"
+      },
+      {
+        "value": "CUSTOM:UraniumNugget"
+      }
+    ],
+    "smeltingXPReward": 0.0,
+    "smeltingRetstackSize": 1,
+    "name": "uraniumrecipe",
+    "namespace": "mod"
+  }
+}

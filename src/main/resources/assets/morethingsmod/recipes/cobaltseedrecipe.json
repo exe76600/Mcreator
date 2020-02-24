@@ -1,0 +1,30 @@
+{
+  "group": "morethingsmod",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " 1 ",
+    "345",
+    " 7 "
+  ],
+  "key": {
+    "1": {
+      "item": "morethingsmod:lingotcobalt"
+    },
+    "3": {
+      "item": "morethingsmod:lingotcobalt"
+    },
+    "4": {
+      "item": "morethingsmod:zivicioseed"
+    },
+    "5": {
+      "item": "morethingsmod:lingotcobalt"
+    },
+    "7": {
+      "item": "morethingsmod:lingotcobalt"
+    }
+  },
+  "result": {
+    "item": "morethingsmod:cobaltseed",
+    "count": 1
+  }
+}

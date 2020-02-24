@@ -1,0 +1,42 @@
+{
+  "group": "morethingsmod",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "morethingsmod:agatenugget"
+    },
+    "1": {
+      "item": "morethingsmod:agatenugget"
+    },
+    "2": {
+      "item": "morethingsmod:agatenugget"
+    },
+    "3": {
+      "item": "morethingsmod:agatenugget"
+    },
+    "4": {
+      "item": "morethingsmod:agatenugget"
+    },
+    "5": {
+      "item": "morethingsmod:agatenugget"
+    },
+    "6": {
+      "item": "morethingsmod:agatenugget"
+    },
+    "7": {
+      "item": "morethingsmod:agatenugget"
+    },
+    "8": {
+      "item": "morethingsmod:agatenugget"
+    }
+  },
+  "result": {
+    "item": "morethingsmod:lingotagate",
+    "count": 1
+  }
+}

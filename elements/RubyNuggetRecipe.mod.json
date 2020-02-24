@@ -1,0 +1,45 @@
+{
+  "_fv": 5,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "recipeRetstackSize": 1,
+    "recipeShapeless": false,
+    "recipeReturnStack": {
+      "value": "CUSTOM:RubyNugget"
+    },
+    "recipeSlots": [
+      {
+        "value": "CUSTOM:RubyFragment"
+      },
+      {
+        "value": "CUSTOM:RubyFragment"
+      },
+      {
+        "value": "CUSTOM:RubyFragment"
+      },
+      {
+        "value": "CUSTOM:RubyFragment"
+      },
+      {
+        "value": "CUSTOM:RubyFragment"
+      },
+      {
+        "value": "CUSTOM:RubyFragment"
+      },
+      {
+        "value": "CUSTOM:RubyFragment"
+      },
+      {
+        "value": "CUSTOM:RubyFragment"
+      },
+      {
+        "value": "CUSTOM:RubyFragment"
+      }
+    ],
+    "smeltingXPReward": 0.0,
+    "smeltingRetstackSize": 1,
+    "name": "rubynuggetrecipe",
+    "namespace": "mod"
+  }
+}

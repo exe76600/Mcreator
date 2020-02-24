@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "morethingsmod:blocks/minicio_block",
+    "up": "morethingsmod:blocks/minicio_block",
+    "north": "morethingsmod:blocks/minicio_block",
+    "east": "morethingsmod:blocks/minicio_block",
+    "south": "morethingsmod:blocks/minicio_block",
+    "west": "morethingsmod:blocks/minicio_block",
+    "particle": "morethingsmod:blocks/minicio_block"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "morethingsmod:blocks/uranium_ore",
+    "up": "morethingsmod:blocks/uranium_ore",
+    "north": "morethingsmod:blocks/uranium_ore",
+    "east": "morethingsmod:blocks/uranium_ore",
+    "south": "morethingsmod:blocks/uranium_ore",
+    "west": "morethingsmod:blocks/uranium_ore",
+    "particle": "morethingsmod:blocks/uranium_ore"
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "_fv": 5,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "recipeRetstackSize": 1,
+    "recipeShapeless": false,
+    "recipeReturnStack": {
+      "value": "CUSTOM:Rubis.legs"
+    },
+    "recipeSlots": [
+      {
+        "value": "CUSTOM:LingotRubis"
+      },
+      {
+        "value": "CUSTOM:LingotRubis"
+      },
+      {
+        "value": "CUSTOM:LingotRubis"
+      },
+      {
+        "value": "CUSTOM:LingotRubis"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:LingotRubis"
+      },
+      {
+        "value": "CUSTOM:LingotRubis"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:LingotRubis"
+      }
+    ],
+    "smeltingXPReward": 0.0,
+    "smeltingRetstackSize": 1,
+    "name": "pantalonrubisrecipe",
+    "namespace": "mod"
+  }
+}

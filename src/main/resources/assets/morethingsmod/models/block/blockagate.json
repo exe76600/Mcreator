@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "morethingsmod:blocks/agate_block",
+    "up": "morethingsmod:blocks/agate_block",
+    "north": "morethingsmod:blocks/agate_block",
+    "east": "morethingsmod:blocks/agate_block",
+    "south": "morethingsmod:blocks/agate_block",
+    "west": "morethingsmod:blocks/agate_block",
+    "particle": "morethingsmod:blocks/agate_block"
+  }
+}

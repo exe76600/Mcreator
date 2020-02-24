@@ -1,0 +1,42 @@
+{
+  "group": "morethingsmod",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "morethingsmod:copperfragment"
+    },
+    "1": {
+      "item": "morethingsmod:copperfragment"
+    },
+    "2": {
+      "item": "morethingsmod:copperfragment"
+    },
+    "3": {
+      "item": "morethingsmod:copperfragment"
+    },
+    "4": {
+      "item": "morethingsmod:copperfragment"
+    },
+    "5": {
+      "item": "morethingsmod:copperfragment"
+    },
+    "6": {
+      "item": "morethingsmod:copperfragment"
+    },
+    "7": {
+      "item": "morethingsmod:copperfragment"
+    },
+    "8": {
+      "item": "morethingsmod:copperfragment"
+    }
+  },
+  "result": {
+    "item": "morethingsmod:coppernugget",
+    "count": 1
+  }
+}

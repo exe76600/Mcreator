@@ -1,0 +1,45 @@
+{
+  "_fv": 5,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "recipeRetstackSize": 1,
+    "recipeShapeless": false,
+    "recipeReturnStack": {
+      "value": "CUSTOM:EmeraldNugget"
+    },
+    "recipeSlots": [
+      {
+        "value": "CUSTOM:EmeraldFragment"
+      },
+      {
+        "value": "CUSTOM:EmeraldFragment"
+      },
+      {
+        "value": "CUSTOM:EmeraldFragment"
+      },
+      {
+        "value": "CUSTOM:EmeraldFragment"
+      },
+      {
+        "value": "CUSTOM:EmeraldFragment"
+      },
+      {
+        "value": "CUSTOM:EmeraldFragment"
+      },
+      {
+        "value": "CUSTOM:EmeraldFragment"
+      },
+      {
+        "value": "CUSTOM:EmeraldFragment"
+      },
+      {
+        "value": "CUSTOM:EmeraldFragment"
+      }
+    ],
+    "smeltingXPReward": 0.0,
+    "smeltingRetstackSize": 1,
+    "name": "emeraldnuggetrecipe",
+    "namespace": "mod"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "group": "morethingsmod",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "morethingsmod:blockzivicio"
+    }
+  ],
+  "result": {
+    "item": "morethingsmod:zivicio",
+    "count": 9
+  }
+}

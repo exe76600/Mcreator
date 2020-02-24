@@ -1,0 +1,26 @@
+{
+  "group": "morethingsmod",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "01",
+    "23"
+  ],
+  "key": {
+    "0": {
+      "item": "morethingsmod:accio"
+    },
+    "1": {
+      "item": "morethingsmod:accio"
+    },
+    "2": {
+      "item": "morethingsmod:accio"
+    },
+    "3": {
+      "item": "morethingsmod:accio"
+    }
+  },
+  "result": {
+    "item": "morethingsmod:crucio",
+    "count": 1
+  }
+}

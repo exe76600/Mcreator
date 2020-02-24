@@ -1,0 +1,30 @@
+{
+  "_fv": 5,
+  "_type": "tool",
+  "definition": {
+    "renderType": 0,
+    "texture": "cobalt_pickaxe",
+    "customModelName": "Normal",
+    "name": "Cobalt Pickaxe",
+    "creativeTab": {
+      "value": "CUSTOM:MoreThingsMod"
+    },
+    "toolType": "Pickaxe",
+    "harvestLevel": 4,
+    "efficiency": 4.0,
+    "attackSpeed": 1.2,
+    "enchantability": 10,
+    "damageVsEntity": 5.5,
+    "usageCount": 5000,
+    "blocksAffected": [],
+    "hasGlow": false,
+    "repairItems": [
+      {
+        "value": "CUSTOM:PiocheCobalt"
+      },
+      {
+        "value": "CUSTOM:LingotCobalt"
+      }
+    ]
+  }
+}

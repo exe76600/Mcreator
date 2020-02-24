@@ -1,0 +1,45 @@
+{
+  "_fv": 5,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "recipeRetstackSize": 1,
+    "recipeShapeless": false,
+    "recipeReturnStack": {
+      "value": "CUSTOM:Crucio"
+    },
+    "recipeSlots": [
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:Accio"
+      },
+      {
+        "value": "CUSTOM:Accio"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:Accio"
+      },
+      {
+        "value": "CUSTOM:Accio"
+      },
+      {
+        "value": ""
+      }
+    ],
+    "smeltingXPReward": 0.0,
+    "smeltingRetstackSize": 1,
+    "name": "crucio2recipe",
+    "namespace": "mod"
+  }
+}

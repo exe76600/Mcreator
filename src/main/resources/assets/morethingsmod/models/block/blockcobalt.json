@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "morethingsmod:blocks/cobalt_block",
+    "up": "morethingsmod:blocks/cobalt_block",
+    "north": "morethingsmod:blocks/cobalt_block",
+    "east": "morethingsmod:blocks/cobalt_block",
+    "south": "morethingsmod:blocks/cobalt_block",
+    "west": "morethingsmod:blocks/cobalt_block",
+    "particle": "morethingsmod:blocks/cobalt_block"
+  }
+}

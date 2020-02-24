@@ -1,0 +1,45 @@
+{
+  "_fv": 5,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "recipeRetstackSize": 1,
+    "recipeShapeless": false,
+    "recipeReturnStack": {
+      "value": "CUSTOM:CoalSeed"
+    },
+    "recipeSlots": [
+      {
+        "value": ""
+      },
+      {
+        "value": "Items.COAL#0"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "Items.COAL#0"
+      },
+      {
+        "value": "CUSTOM:MinicioSeed"
+      },
+      {
+        "value": "Items.COAL#0"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "Items.COAL#0"
+      },
+      {
+        "value": ""
+      }
+    ],
+    "smeltingXPReward": 0.0,
+    "smeltingRetstackSize": 1,
+    "name": "coalseedrecipe",
+    "namespace": "mod"
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "_fv": 5,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "recipeRetstackSize": 1,
+    "recipeShapeless": false,
+    "recipeReturnStack": {
+      "value": "CUSTOM:Agate.legs"
+    },
+    "recipeSlots": [
+      {
+        "value": "CUSTOM:LingotAgate"
+      },
+      {
+        "value": "CUSTOM:LingotAgate"
+      },
+      {
+        "value": "CUSTOM:LingotAgate"
+      },
+      {
+        "value": "CUSTOM:LingotAgate"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:LingotAgate"
+      },
+      {
+        "value": "CUSTOM:LingotAgate"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:LingotAgate"
+      }
+    ],
+    "smeltingXPReward": 0.0,
+    "smeltingRetstackSize": 1,
+    "name": "pantalonagaterecipe",
+    "namespace": "mod"
+  }
+}

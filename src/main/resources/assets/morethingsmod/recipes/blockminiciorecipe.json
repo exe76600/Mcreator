@@ -1,0 +1,42 @@
+{
+  "group": "morethingsmod",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "morethingsmod:minicio"
+    },
+    "1": {
+      "item": "morethingsmod:minicio"
+    },
+    "2": {
+      "item": "morethingsmod:minicio"
+    },
+    "3": {
+      "item": "morethingsmod:minicio"
+    },
+    "4": {
+      "item": "morethingsmod:minicio"
+    },
+    "5": {
+      "item": "morethingsmod:minicio"
+    },
+    "6": {
+      "item": "morethingsmod:minicio"
+    },
+    "7": {
+      "item": "morethingsmod:minicio"
+    },
+    "8": {
+      "item": "morethingsmod:minicio"
+    }
+  },
+  "result": {
+    "item": "morethingsmod:blockminicio",
+    "count": 1
+  }
+}

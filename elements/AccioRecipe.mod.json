@@ -1,0 +1,45 @@
+{
+  "_fv": 5,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "recipeRetstackSize": 1,
+    "recipeShapeless": false,
+    "recipeReturnStack": {
+      "value": "CUSTOM:Accio"
+    },
+    "recipeSlots": [
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:Minicio"
+      },
+      {
+        "value": "CUSTOM:Minicio"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:Minicio"
+      },
+      {
+        "value": "CUSTOM:Minicio"
+      }
+    ],
+    "smeltingXPReward": 0.0,
+    "smeltingRetstackSize": 1,
+    "name": "acciorecipe",
+    "namespace": "mod"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "group": "morethingsmod",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "morethingsmod:blockimperio"
+    }
+  ],
+  "result": {
+    "item": "morethingsmod:imperio",
+    "count": 9
+  }
+}

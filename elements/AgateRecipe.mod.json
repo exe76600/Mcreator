@@ -1,0 +1,45 @@
+{
+  "_fv": 5,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "recipeRetstackSize": 1,
+    "recipeShapeless": false,
+    "recipeReturnStack": {
+      "value": "CUSTOM:LingotAgate"
+    },
+    "recipeSlots": [
+      {
+        "value": "CUSTOM:AgateNugget"
+      },
+      {
+        "value": "CUSTOM:AgateNugget"
+      },
+      {
+        "value": "CUSTOM:AgateNugget"
+      },
+      {
+        "value": "CUSTOM:AgateNugget"
+      },
+      {
+        "value": "CUSTOM:AgateNugget"
+      },
+      {
+        "value": "CUSTOM:AgateNugget"
+      },
+      {
+        "value": "CUSTOM:AgateNugget"
+      },
+      {
+        "value": "CUSTOM:AgateNugget"
+      },
+      {
+        "value": "CUSTOM:AgateNugget"
+      }
+    ],
+    "smeltingXPReward": 0.0,
+    "smeltingRetstackSize": 1,
+    "name": "agaterecipe",
+    "namespace": "mod"
+  }
+}

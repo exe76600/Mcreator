@@ -1,0 +1,45 @@
+{
+  "_fv": 5,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "recipeRetstackSize": 1,
+    "recipeShapeless": false,
+    "recipeReturnStack": {
+      "value": "CUSTOM:ZivicioSeed"
+    },
+    "recipeSlots": [
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:Zivicio"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:Zivicio"
+      },
+      {
+        "value": "CUSTOM:ImperioSeed"
+      },
+      {
+        "value": "CUSTOM:Zivicio"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:Zivicio"
+      },
+      {
+        "value": ""
+      }
+    ],
+    "smeltingXPReward": 0.0,
+    "smeltingRetstackSize": 1,
+    "name": "zivicioseedrecipe",
+    "namespace": "mod"
+  }
+}

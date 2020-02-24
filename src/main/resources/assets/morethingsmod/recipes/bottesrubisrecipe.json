@@ -1,0 +1,26 @@
+{
+  "group": "morethingsmod",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0 2",
+    "3 5"
+  ],
+  "key": {
+    "0": {
+      "item": "morethingsmod:lingotrubis"
+    },
+    "2": {
+      "item": "morethingsmod:lingotrubis"
+    },
+    "3": {
+      "item": "morethingsmod:lingotrubis"
+    },
+    "5": {
+      "item": "morethingsmod:lingotrubis"
+    }
+  },
+  "result": {
+    "item": "morethingsmod:rubisboots",
+    "count": 1
+  }
+}

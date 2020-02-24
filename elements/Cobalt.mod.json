@@ -1,0 +1,63 @@
+{
+  "_fv": 5,
+  "_type": "armor",
+  "definition": {
+    "enableHelmet": true,
+    "textureHelmet": "cobalt_helmet",
+    "enableBody": true,
+    "textureBody": "cobalt_chestplate",
+    "enableLeggings": true,
+    "textureLeggings": "cobalt_leggings",
+    "enableBoots": true,
+    "textureBoots": "cobalt_boots",
+    "creativeTab": {
+      "value": "CUSTOM:MoreThingsMod"
+    },
+    "armorTextureFile": "cobalt_",
+    "helmetName": "Cobalt Helmet",
+    "bodyName": "Cobalt Chestplate",
+    "leggingsName": "Cobalt Leggings",
+    "bootsName": "Cobalt Boots",
+    "helmetModelName": "Default",
+    "helmetModelPart": "Helmet",
+    "helmetModelTexture": "From armor",
+    "bodyModelName": "Default",
+    "bodyModelPart": "Body",
+    "bodyModelTexture": "From armor",
+    "leggingsModelName": "Default",
+    "leggingsModelPartL": "Leggings L",
+    "leggingsModelPartR": "Leggings R",
+    "leggingsModelTexture": "From armor",
+    "bootsModelName": "Default",
+    "bootsModelPartL": "Boots L",
+    "bootsModelPartR": "Boots R",
+    "bootsModelTexture": "From armor",
+    "maxDamage": 36,
+    "damageValueHelmet": 10,
+    "damageValueBody": 14,
+    "damageValueLeggings": 13,
+    "damageValueBoots": 10,
+    "enchantability": 10,
+    "toughness": 5.0,
+    "equipSound": {
+      "value": ""
+    },
+    "repairItems": [
+      {
+        "value": "CUSTOM:Cobalt.helmet"
+      },
+      {
+        "value": "CUSTOM:Cobalt.body"
+      },
+      {
+        "value": "CUSTOM:Cobalt.legs"
+      },
+      {
+        "value": "CUSTOM:Cobalt.boots"
+      },
+      {
+        "value": "CUSTOM:LingotCobalt"
+      }
+    ]
+  }
+}

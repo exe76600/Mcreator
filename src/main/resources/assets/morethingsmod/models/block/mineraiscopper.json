@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "morethingsmod:blocks/copper_ore",
+    "up": "morethingsmod:blocks/copper_ore",
+    "north": "morethingsmod:blocks/copper_ore",
+    "east": "morethingsmod:blocks/copper_ore",
+    "south": "morethingsmod:blocks/copper_ore",
+    "west": "morethingsmod:blocks/copper_ore",
+    "particle": "morethingsmod:blocks/copper_ore"
+  }
+}

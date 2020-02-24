@@ -1,0 +1,30 @@
+{
+  "group": "morethingsmod",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    " 4 ",
+    " 7 "
+  ],
+  "key": {
+    "0": {
+      "item": "morethingsmod:lingotrubis"
+    },
+    "1": {
+      "item": "morethingsmod:lingotrubis"
+    },
+    "2": {
+      "item": "morethingsmod:lingotrubis"
+    },
+    "4": {
+      "item": "minecraft:stick"
+    },
+    "7": {
+      "item": "minecraft:stick"
+    }
+  },
+  "result": {
+    "item": "morethingsmod:piocherubis",
+    "count": 1
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "group": "morethingsmod",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "3 5",
+    "6 8"
+  ],
+  "key": {
+    "0": {
+      "item": "morethingsmod:lingotcopper"
+    },
+    "1": {
+      "item": "morethingsmod:lingotcopper"
+    },
+    "2": {
+      "item": "morethingsmod:lingotcopper"
+    },
+    "3": {
+      "item": "morethingsmod:lingotcopper"
+    },
+    "5": {
+      "item": "morethingsmod:lingotcopper"
+    },
+    "6": {
+      "item": "morethingsmod:lingotcopper"
+    },
+    "8": {
+      "item": "morethingsmod:lingotcopper"
+    }
+  },
+  "result": {
+    "item": "morethingsmod:copperlegs",
+    "count": 1
+  }
+}

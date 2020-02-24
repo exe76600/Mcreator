@@ -1,0 +1,42 @@
+{
+  "group": "morethingsmod",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "morethingsmod:cobaltfragment"
+    },
+    "1": {
+      "item": "morethingsmod:cobaltfragment"
+    },
+    "2": {
+      "item": "morethingsmod:cobaltfragment"
+    },
+    "3": {
+      "item": "morethingsmod:cobaltfragment"
+    },
+    "4": {
+      "item": "morethingsmod:cobaltfragment"
+    },
+    "5": {
+      "item": "morethingsmod:cobaltfragment"
+    },
+    "6": {
+      "item": "morethingsmod:cobaltfragment"
+    },
+    "7": {
+      "item": "morethingsmod:cobaltfragment"
+    },
+    "8": {
+      "item": "morethingsmod:cobaltfragment"
+    }
+  },
+  "result": {
+    "item": "morethingsmod:cobaltnugget",
+    "count": 1
+  }
+}

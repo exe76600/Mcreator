@@ -1,0 +1,13 @@
+{
+  "group": "morethingsmod",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "morethingsmod:blockcondensedzivicio"
+    }
+  ],
+  "result": {
+    "item": "morethingsmod:blockzivicio",
+    "count": 9
+  }
+}

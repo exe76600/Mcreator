@@ -1,0 +1,26 @@
+{
+  "group": "morethingsmod",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "01",
+    "23"
+  ],
+  "key": {
+    "0": {
+      "item": "morethingsmod:imperio"
+    },
+    "1": {
+      "item": "morethingsmod:imperio"
+    },
+    "2": {
+      "item": "morethingsmod:imperio"
+    },
+    "3": {
+      "item": "morethingsmod:imperio"
+    }
+  },
+  "result": {
+    "item": "morethingsmod:zivicio",
+    "count": 1
+  }
+}

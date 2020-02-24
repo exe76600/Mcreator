@@ -1,0 +1,30 @@
+{
+  "_fv": 5,
+  "_type": "tool",
+  "definition": {
+    "renderType": 0,
+    "texture": "agate_sword",
+    "customModelName": "Normal",
+    "name": "Agate Sword",
+    "creativeTab": {
+      "value": "CUSTOM:MoreThingsMod"
+    },
+    "toolType": "Sword",
+    "harvestLevel": 1,
+    "efficiency": 4.0,
+    "attackSpeed": 1.6,
+    "enchantability": 10,
+    "damageVsEntity": 4.0,
+    "usageCount": 2000,
+    "blocksAffected": [],
+    "hasGlow": false,
+    "repairItems": [
+      {
+        "value": "CUSTOM:EpeeAgate"
+      },
+      {
+        "value": "CUSTOM:LingotAgate"
+      }
+    ]
+  }
+}

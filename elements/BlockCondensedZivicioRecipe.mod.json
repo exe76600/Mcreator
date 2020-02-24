@@ -1,0 +1,45 @@
+{
+  "_fv": 5,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "recipeRetstackSize": 1,
+    "recipeShapeless": false,
+    "recipeReturnStack": {
+      "value": "CUSTOM:BlockCondensedZivicio"
+    },
+    "recipeSlots": [
+      {
+        "value": "CUSTOM:BlockZivicio"
+      },
+      {
+        "value": "CUSTOM:BlockZivicio"
+      },
+      {
+        "value": "CUSTOM:BlockZivicio"
+      },
+      {
+        "value": "CUSTOM:BlockZivicio"
+      },
+      {
+        "value": "CUSTOM:BlockZivicio"
+      },
+      {
+        "value": "CUSTOM:BlockZivicio"
+      },
+      {
+        "value": "CUSTOM:BlockZivicio"
+      },
+      {
+        "value": "CUSTOM:BlockZivicio"
+      },
+      {
+        "value": "CUSTOM:BlockZivicio"
+      }
+    ],
+    "smeltingXPReward": 0.0,
+    "smeltingRetstackSize": 1,
+    "name": "blockcondensedziviciorecipe",
+    "namespace": "mod"
+  }
+}

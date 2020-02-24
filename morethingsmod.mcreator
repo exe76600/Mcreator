@@ -1,0 +1,2385 @@
+{
+  "id_map": {},
+  "mod_elements": [
+    {
+      "name": "Cobalt",
+      "type": "armor",
+      "sortid": 1,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "metadata": {
+        "eh": true,
+        "el": true,
+        "eb": true,
+        "ec": true
+      }
+    },
+    {
+      "name": "HoueCobalt",
+      "type": "tool",
+      "sortid": 6,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "LingotCobalt",
+      "type": "item",
+      "sortid": 39,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "MineraisCobalt",
+      "type": "block",
+      "sortid": 31,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "MoreThingsMod",
+      "type": "tab",
+      "sortid": 76,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "PiocheCobaltRecipe",
+      "type": "recipe",
+      "sortid": 77,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "CasqueCobaltRecipe",
+      "type": "recipe",
+      "sortid": 78,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "PantalonCobaltRecipe",
+      "type": "recipe",
+      "sortid": 79,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "BottesCobaltRecipe",
+      "type": "recipe",
+      "sortid": 80,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "EpeeCobaltRecipe",
+      "type": "recipe",
+      "sortid": 81,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "HacheCobaltRecipe",
+      "type": "recipe",
+      "sortid": 82,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "PelleCobaltRecipe",
+      "type": "recipe",
+      "sortid": 83,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "HoueCobaltRecipe",
+      "type": "recipe",
+      "sortid": 84,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "LingotCobaltRecipe",
+      "type": "recipe",
+      "sortid": 85,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "BlockCobaltRecipe",
+      "type": "recipe",
+      "sortid": 86,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "BlockCobalt2Recipe",
+      "type": "recipe",
+      "sortid": 87,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "PlastronCobaltRecipe",
+      "type": "recipe",
+      "sortid": 88,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "EpeeCobalt",
+      "type": "tool",
+      "sortid": 2,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "PiocheCobalt",
+      "type": "tool",
+      "sortid": 3,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "PelleCobalt",
+      "type": "tool",
+      "sortid": 4,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "HacheCobalt",
+      "type": "tool",
+      "sortid": 5,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "BlockCobalt",
+      "type": "block",
+      "sortid": 35,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "Rubis",
+      "type": "armor",
+      "sortid": 7,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "metadata": {
+        "eh": true,
+        "el": true,
+        "eb": true,
+        "ec": true
+      }
+    },
+    {
+      "name": "EpeeRubis",
+      "type": "tool",
+      "sortid": 8,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "PiocheRubis",
+      "type": "tool",
+      "sortid": 9,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "PelleRubis",
+      "type": "tool",
+      "sortid": 10,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "HacheRubis",
+      "type": "tool",
+      "sortid": 11,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "HoueRubis",
+      "type": "tool",
+      "sortid": 12,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "MineraisRubis",
+      "type": "block",
+      "sortid": 32,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "BlockRubis",
+      "type": "block",
+      "sortid": 36,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "LingotRubis",
+      "type": "item",
+      "sortid": 40,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "CasqueRubisRecipe",
+      "type": "recipe",
+      "sortid": 89,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "PlastronRubisRecipe",
+      "type": "recipe",
+      "sortid": 90,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "PantalonRubisRecipe",
+      "type": "recipe",
+      "sortid": 91,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "BottesRubisRecipe",
+      "type": "recipe",
+      "sortid": 92,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "EpeeRubisRecipe",
+      "type": "recipe",
+      "sortid": 93,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "PiocheRubisRecipe",
+      "type": "recipe",
+      "sortid": 94,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "PelleRubisRecipe",
+      "type": "recipe",
+      "sortid": 95,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "HacheRubisRecipe",
+      "type": "recipe",
+      "sortid": 96,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "HoueRubisRecipe",
+      "type": "recipe",
+      "sortid": 97,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "LingotRubisRecipe",
+      "type": "recipe",
+      "sortid": 98,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "BlockRubisRecipe",
+      "type": "recipe",
+      "sortid": 99,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "BlockRubis2Recipe",
+      "type": "recipe",
+      "sortid": 100,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "Copper",
+      "type": "armor",
+      "sortid": 13,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "metadata": {
+        "eh": true,
+        "el": true,
+        "eb": true,
+        "ec": true
+      }
+    },
+    {
+      "name": "MineraisCopper",
+      "type": "block",
+      "sortid": 33,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "BlockCopper",
+      "type": "block",
+      "sortid": 37,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "LingotCopper",
+      "type": "item",
+      "sortid": 41,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "EpeeCopper",
+      "type": "tool",
+      "sortid": 14,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "PiocheCopper",
+      "type": "tool",
+      "sortid": 15,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "PelleCopper",
+      "type": "tool",
+      "sortid": 16,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "HacheCopper",
+      "type": "tool",
+      "sortid": 17,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "HoueCopper",
+      "type": "tool",
+      "sortid": 18,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "CasqueCopperRecipe",
+      "type": "recipe",
+      "sortid": 101,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "PlastronCopperRecipe",
+      "type": "recipe",
+      "sortid": 102,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "PantalonCopperRecipe",
+      "type": "recipe",
+      "sortid": 103,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "BottesCopperRecipe",
+      "type": "recipe",
+      "sortid": 104,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "EpeeCopperRecipe",
+      "type": "recipe",
+      "sortid": 105,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "PiocheCopperRecipe",
+      "type": "recipe",
+      "sortid": 106,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "PelleCopperRecipe",
+      "type": "recipe",
+      "sortid": 107,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "HacheCopperRecipe",
+      "type": "recipe",
+      "sortid": 108,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "HoueCopperRecipe",
+      "type": "recipe",
+      "sortid": 109,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "BlockCopperRecipe",
+      "type": "recipe",
+      "sortid": 110,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "BlockCopper2Recipe",
+      "type": "recipe",
+      "sortid": 111,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "LingotCopperRecipe",
+      "type": "recipe",
+      "sortid": 112,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "Agate",
+      "type": "armor",
+      "sortid": 19,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "metadata": {
+        "eh": true,
+        "el": true,
+        "eb": true,
+        "ec": true
+      }
+    },
+    {
+      "name": "EpeeAgate",
+      "type": "tool",
+      "sortid": 20,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "PiocheAgate",
+      "type": "tool",
+      "sortid": 21,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "PelleAgate",
+      "type": "tool",
+      "sortid": 22,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "HacheAgate",
+      "type": "tool",
+      "sortid": 23,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "HoueAgate",
+      "type": "tool",
+      "sortid": 24,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "LingotAgate",
+      "type": "item",
+      "sortid": 42,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "MineraisAgate",
+      "type": "block",
+      "sortid": 34,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "BlockAgate",
+      "type": "block",
+      "sortid": 38,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "CasqueAgateRecipe",
+      "type": "recipe",
+      "sortid": 113,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "PlastronAgateRecipe",
+      "type": "recipe",
+      "sortid": 114,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "PantalonAgateRecipe",
+      "type": "recipe",
+      "sortid": 115,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "BottesAgateRecipe",
+      "type": "recipe",
+      "sortid": 116,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "EpeeAgateRecipe",
+      "type": "recipe",
+      "sortid": 117,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "PiocheAgateRecipe",
+      "type": "recipe",
+      "sortid": 118,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "PelleAgateRecipe",
+      "type": "recipe",
+      "sortid": 119,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "HacheAgateRecipe",
+      "type": "recipe",
+      "sortid": 120,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "HoueAgateRecipe",
+      "type": "recipe",
+      "sortid": 121,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "BlockAgateRecipe",
+      "type": "recipe",
+      "sortid": 122,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "BlockAgate2Recipe",
+      "type": "recipe",
+      "sortid": 123,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "LingotAgateRecipe",
+      "type": "recipe",
+      "sortid": 124,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "UraniumCoal",
+      "type": "item",
+      "sortid": 43,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "UraniumFuel",
+      "type": "fuel",
+      "sortid": 125,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "MineraisRubisBlockDestroyedByPlayer",
+      "type": "procedure",
+      "sortid": 126,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          },
+          {
+            "name": "x",
+            "type": "int"
+          },
+          {
+            "name": "y",
+            "type": "int"
+          },
+          {
+            "name": "z",
+            "type": "int"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "MineraisAgateBlockDestroyedByPlayer",
+      "type": "procedure",
+      "sortid": 127,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          },
+          {
+            "name": "x",
+            "type": "int"
+          },
+          {
+            "name": "y",
+            "type": "int"
+          },
+          {
+            "name": "z",
+            "type": "int"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "MineraisUraniumBlockDestroyedByPlayer",
+      "type": "procedure",
+      "sortid": 128,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          },
+          {
+            "name": "x",
+            "type": "int"
+          },
+          {
+            "name": "y",
+            "type": "int"
+          },
+          {
+            "name": "z",
+            "type": "int"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Emeraude",
+      "type": "armor",
+      "sortid": 25,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "metadata": {
+        "eh": true,
+        "el": true,
+        "eb": true,
+        "ec": true
+      }
+    },
+    {
+      "name": "EpeeEmeraude",
+      "type": "tool",
+      "sortid": 26,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "PiocheEmeraude",
+      "type": "tool",
+      "sortid": 27,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "PelleEmeraude",
+      "type": "tool",
+      "sortid": 28,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "HacheEmeraude",
+      "type": "tool",
+      "sortid": 29,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "HoueEmeraude",
+      "type": "tool",
+      "sortid": 30,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "CasqueEmeraudeRecipe",
+      "type": "recipe",
+      "sortid": 129,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "PlastronEmeraudeRecipe",
+      "type": "recipe",
+      "sortid": 130,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "PantalonEmeraudeRecipe",
+      "type": "recipe",
+      "sortid": 131,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "BottesEmeraudeRecipe",
+      "type": "recipe",
+      "sortid": 132,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "EpeeEmeraudeRecipe",
+      "type": "recipe",
+      "sortid": 133,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "PiocheEmeraudeRecipe",
+      "type": "recipe",
+      "sortid": 134,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "PelleEmeraudeRecipe",
+      "type": "recipe",
+      "sortid": 135,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "HacheEmeraudeRecipe",
+      "type": "recipe",
+      "sortid": 136,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "HoueEmeraudeRecipe",
+      "type": "recipe",
+      "sortid": 137,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "UraniumCoalRecipe",
+      "type": "recipe",
+      "sortid": 138,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "MineraisUranium",
+      "type": "block",
+      "sortid": 44,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "MineraisMinicio",
+      "type": "block",
+      "sortid": 45,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "MineraisMinicioNether",
+      "type": "block",
+      "sortid": 46,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "MineraisMinicioEnd",
+      "type": "block",
+      "sortid": 47,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "Minicio",
+      "type": "item",
+      "sortid": 48,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "Accio",
+      "type": "item",
+      "sortid": 49,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "Crucio",
+      "type": "item",
+      "sortid": 50,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "Imperio",
+      "type": "item",
+      "sortid": 51,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "Zivicio",
+      "type": "item",
+      "sortid": 52,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "BlockMinicio",
+      "type": "block",
+      "sortid": 53,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "BlockAccio",
+      "type": "block",
+      "sortid": 54,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "BlockCrucio",
+      "type": "block",
+      "sortid": 55,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "BlockImperio",
+      "type": "block",
+      "sortid": 56,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "BlockZivicio",
+      "type": "block",
+      "sortid": 57,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "BlockCondensedZivicio",
+      "type": "block",
+      "sortid": 58,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "BlockMinicioRecipe",
+      "type": "recipe",
+      "sortid": 139,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "BlockMinicio2Recipe",
+      "type": "recipe",
+      "sortid": 140,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "BlockAccioRecipe",
+      "type": "recipe",
+      "sortid": 141,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "BlockAccio2Recipe",
+      "type": "recipe",
+      "sortid": 142,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "BlockCrucioRecipe",
+      "type": "recipe",
+      "sortid": 143,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "BlockCrucio2Recipe",
+      "type": "recipe",
+      "sortid": 144,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "BlockImperioRecipe",
+      "type": "recipe",
+      "sortid": 145,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "BlockImperio2Recipe",
+      "type": "recipe",
+      "sortid": 146,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "BlockZivicioRecipe",
+      "type": "recipe",
+      "sortid": 147,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "BlockZivicio2Recipe",
+      "type": "recipe",
+      "sortid": 148,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "BlockCondensedZivicioRecipe",
+      "type": "recipe",
+      "sortid": 149,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "BlockCondensedZivicio2Recipe",
+      "type": "recipe",
+      "sortid": 150,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "AccioRecipe",
+      "type": "recipe",
+      "sortid": 151,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "Accio2Recipe",
+      "type": "recipe",
+      "sortid": 152,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "Accio3Recipe",
+      "type": "recipe",
+      "sortid": 153,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "Accio4Recipe",
+      "type": "recipe",
+      "sortid": 154,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "CrucioRecipe",
+      "type": "recipe",
+      "sortid": 155,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "Crucio2Recipe",
+      "type": "recipe",
+      "sortid": 156,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "Crucio3Recipe",
+      "type": "recipe",
+      "sortid": 157,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "Crucio4Recipe",
+      "type": "recipe",
+      "sortid": 158,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "ImperioRecipe",
+      "type": "recipe",
+      "sortid": 159,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "Imperio2Recipe",
+      "type": "recipe",
+      "sortid": 160,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "Imperio3Recipe",
+      "type": "recipe",
+      "sortid": 161,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "Imperio4Recipe",
+      "type": "recipe",
+      "sortid": 162,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "ZivicioRecipe",
+      "type": "recipe",
+      "sortid": 163,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "Zivicio2Recipe",
+      "type": "recipe",
+      "sortid": 164,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "Zivicio3Recipe",
+      "type": "recipe",
+      "sortid": 165,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "Zivicio4Recipe",
+      "type": "recipe",
+      "sortid": 166,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "MineraisMinicioBlockDestroyedByPlayer",
+      "type": "procedure",
+      "sortid": 167,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          },
+          {
+            "name": "x",
+            "type": "int"
+          },
+          {
+            "name": "y",
+            "type": "int"
+          },
+          {
+            "name": "z",
+            "type": "int"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "MineraisMinicioNetherBlockDestroyedByPlayer",
+      "type": "procedure",
+      "sortid": 168,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          },
+          {
+            "name": "x",
+            "type": "int"
+          },
+          {
+            "name": "y",
+            "type": "int"
+          },
+          {
+            "name": "z",
+            "type": "int"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "MineraisMinicioEndBlockDestroyedByPlayer",
+      "type": "procedure",
+      "sortid": 169,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          },
+          {
+            "name": "x",
+            "type": "int"
+          },
+          {
+            "name": "y",
+            "type": "int"
+          },
+          {
+            "name": "z",
+            "type": "int"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "MinicioSeed",
+      "type": "item",
+      "sortid": 59,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "AccioSeed",
+      "type": "item",
+      "sortid": 60,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "CrucioSeed",
+      "type": "item",
+      "sortid": 61,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "ImperioSeed",
+      "type": "item",
+      "sortid": 62,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "ZivicioSeed",
+      "type": "item",
+      "sortid": 63,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "MinicioSeedRecipe",
+      "type": "recipe",
+      "sortid": 170,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "AccioSeedRecipe",
+      "type": "recipe",
+      "sortid": 171,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "CrucioSeedRecipe",
+      "type": "recipe",
+      "sortid": 172,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "ImperioSeedRecipe",
+      "type": "recipe",
+      "sortid": 173,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "ZivicioSeedRecipe",
+      "type": "recipe",
+      "sortid": 174,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "CoalSeed",
+      "type": "item",
+      "sortid": 64,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "IronSeed",
+      "type": "item",
+      "sortid": 65,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "GoldSeed",
+      "type": "item",
+      "sortid": 66,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "LapisLazuliSeed",
+      "type": "item",
+      "sortid": 67,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "RedstoneSeed",
+      "type": "item",
+      "sortid": 68,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "EmeraldSeed",
+      "type": "item",
+      "sortid": 69,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "DiamondSeed",
+      "type": "item",
+      "sortid": 70,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "UraniumSeed",
+      "type": "item",
+      "sortid": 71,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "AgateSeed",
+      "type": "item",
+      "sortid": 72,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "CopperSeed",
+      "type": "item",
+      "sortid": 73,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "RubySeed",
+      "type": "item",
+      "sortid": 74,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "CobaltSeed",
+      "type": "item",
+      "sortid": 75,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "CoalSeedRecipe",
+      "type": "recipe",
+      "sortid": 175,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "IronSeedRecipe",
+      "type": "recipe",
+      "sortid": 176,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "GoldSeedRecipe",
+      "type": "recipe",
+      "sortid": 177,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "LapisLazuliSeedRecipe",
+      "type": "recipe",
+      "sortid": 178,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "RedstoneSeedRecipe",
+      "type": "recipe",
+      "sortid": 179,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "EmeraldSeedRecipe",
+      "type": "recipe",
+      "sortid": 180,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "DiamondSeedRecipe",
+      "type": "recipe",
+      "sortid": 181,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "UraniumSeedRecipe",
+      "type": "recipe",
+      "sortid": 182,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "AgateSeedRecipe",
+      "type": "recipe",
+      "sortid": 183,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "CopperSeedRecipe",
+      "type": "recipe",
+      "sortid": 184,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "RubySeedRecipe",
+      "type": "recipe",
+      "sortid": 185,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "CobaltSeedRecipe",
+      "type": "recipe",
+      "sortid": 186,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "IronFragment",
+      "type": "item",
+      "sortid": 187,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "GoldFragment",
+      "type": "item",
+      "sortid": 188,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "EmeraldFragment",
+      "type": "item",
+      "sortid": 189,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "DiamondFragment",
+      "type": "item",
+      "sortid": 190,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "UraniumFragment",
+      "type": "item",
+      "sortid": 191,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "AgateFragment",
+      "type": "item",
+      "sortid": 192,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "CopperFragment",
+      "type": "item",
+      "sortid": 193,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "RubyFragment",
+      "type": "item",
+      "sortid": 194,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "CobaltFragment",
+      "type": "item",
+      "sortid": 195,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "UraniumNugget",
+      "type": "item",
+      "sortid": 196,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "EmeraldNugget",
+      "type": "item",
+      "sortid": 197,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "DiamondNugget",
+      "type": "item",
+      "sortid": 198,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "AgateNugget",
+      "type": "item",
+      "sortid": 199,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "CopperNugget",
+      "type": "item",
+      "sortid": 200,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "RubyNugget",
+      "type": "item",
+      "sortid": 201,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "CobaltNugget",
+      "type": "item",
+      "sortid": 202,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "IronNuggetRecipe",
+      "type": "recipe",
+      "sortid": 203,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "GoldNuggetRecipe",
+      "type": "recipe",
+      "sortid": 204,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "EmeraldNuggetRecipe",
+      "type": "recipe",
+      "sortid": 205,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "DiamondNuggetRecipe",
+      "type": "recipe",
+      "sortid": 206,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "UraniumNuggetRecipe",
+      "type": "recipe",
+      "sortid": 207,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "AgateNuggetRecipe",
+      "type": "recipe",
+      "sortid": 208,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "CopperNuggetRecipe",
+      "type": "recipe",
+      "sortid": 209,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "RubyNuggetRecipe",
+      "type": "recipe",
+      "sortid": 210,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "CobaltNuggetRecipe",
+      "type": "recipe",
+      "sortid": 211,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "EmeraldRecipe",
+      "type": "recipe",
+      "sortid": 212,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "DiamondRecipe",
+      "type": "recipe",
+      "sortid": 213,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "UraniumRecipe",
+      "type": "recipe",
+      "sortid": 214,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "AgateRecipe",
+      "type": "recipe",
+      "sortid": 215,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "CopperRecipe",
+      "type": "recipe",
+      "sortid": 216,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "RubyRecipe",
+      "type": "recipe",
+      "sortid": 217,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "CobaltRecipe",
+      "type": "recipe",
+      "sortid": 218,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "CabaltIngot",
+      "type": "item",
+      "sortid": 219,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    }
+  ],
+  "variable_elements": [],
+  "sound_elements": [],
+  "language_map": {
+    "en_us": {
+      "item.morethingsmod.rubynugget": "Ruby Nugget",
+      "item.morethingsmod.epeeemeraude": "Emerald Sword",
+      "item.crucioseed.name": "Crucio Seed",
+      "item.morethingsmod.copperseed": "Copper Seed",
+      "item.morethingsmod.hacheemeraude": "Emerald Axe",
+      "item.morethingsmod.copperhelmet": "Copper Helmet",
+      "item.morethingsmod.hacheagate": "Agate Axe",
+      "item.morethingsmod.imperioseed": "Imperio Seed",
+      "item.morethingsmod.piocherubis": "Ruby Pickaxe",
+      "item.hacheemeraude.name": "Emerald Axe",
+      "item.morethingsmod.pelleagate": "Agate Shovel",
+      "item.morethingsmod.cobaltseed": "Cobalt Seed",
+      "item.copperbody.name": "Copper Chestplate",
+      "tile.blockagate.name": "Agate Block",
+      "tile.blockaccio.name": "Accio Block",
+      "item.morethingsmod.cobaltlegs": "Cobalt Leggings",
+      "tile.blockcopper.name": "Copper Block",
+      "item.morethingsmod.uraniumfragment": "Uranium Fragments",
+      "item.morethingsmod.piocheagate": "Agate Pickaxe",
+      "item.morethingsmod.lingotagate": "Agate",
+      "item.morethingsmod.emeraldseed": "Emerald Seed",
+      "item.morethingsmod.rubyfragment": "Ruby Fragments",
+      "item.morethingsmod.copperboots": "Copper Boots",
+      "item.imperio.name": "Imperio",
+      "item.morethingsmod.rubisboots": "Ruby Boots",
+      "item.pelleagate.name": "Agate Shovel",
+      "item.morethingsmod.crucioseed": "Crucio Seed",
+      "item.piocherubis.name": "Ruby Pickaxe",
+      "item.pelleemeraude.name": "Emerald Shovel",
+      "item.piochecobalt.name": "Cobalt Pickaxe",
+      "tile.blockcrucio.name": "Crucio Block",
+      "item.rubisbody.name": "Ruby Chestplate",
+      "item.morethingsmod.rubislegs": "Ruby Leggings",
+      "item.piocheemeraude.name": "Emerald Pickaxe",
+      "block.morethingsmod.mineraiscopper": "Copper Ore",
+      "tile.blockrubis.name": "Ruby Block",
+      "item.agatelegs.name": "Agate Leggings",
+      "item.goldfragment.name": "Gold Fragments",
+      "item.morethingsmod.agatebody": "Agate Chestplate",
+      "item.cabaltingot.name": "Cabalt Ingot",
+      "item.morethingsmod.crucio": "Crucio",
+      "item.epeecobalt.name": "Cobalt Sword",
+      "item.morethingsmod.accioseed": "Accio Seed",
+      "item.agateboots.name": "Agate Boots",
+      "tile.mineraisagate.name": "Agate Ore",
+      "tile.mineraiscobalt.name": "Cobalt Ore",
+      "item.uraniumcoal.name": "Uranium Coal",
+      "item.pellerubis.name": "Ruby Shovel",
+      "item.morethingsmod.epeecopper": "Copper Sword",
+      "item.zivicioseed.name": "Zivicio Seed",
+      "item.coalseed.name": "Coal Seed",
+      "item.cobalthelmet.name": "Cobalt Helmet",
+      "item.uraniumseed.name": "Uranium Seed",
+      "block.morethingsmod.blockcrucio": "Crucio Block",
+      "block.morethingsmod.mineraisminicioend": "End Minicio Ore",
+      "item.lingotcobalt.name": "Cobalt Ingot",
+      "tile.mineraisuranium.name": "Uranium Ore",
+      "item.copperseed.name": "Copper Seed",
+      "tile.mineraisminicionether.name": "Nether Minicio Ore",
+      "item.morethingsmod.pellerubis": "Ruby Shovel",
+      "item.morethingsmod.pellecobalt": "Cobalt Shovel",
+      "item.hachecopper.name": "Copper Axe",
+      "item.emeraldfragment.name": "Emerald Fragments",
+      "item.morethingsmod.houeagate": "Agate Hoe",
+      "item.morethingsmod.uraniumcoal": "Uranium Coal",
+      "block.morethingsmod.blockcobalt": "Cobalt Block",
+      "item.morethingsmod.diamondseed": "Diamond Seed",
+      "item.morethingsmod.lingotrubis": "Ruby",
+      "block.morethingsmod.blockaccio": "Accio Block",
+      "item.morethingsmod.emeraldnugget": "Emerald Nugget",
+      "item.agatenugget.name": "Agate Nugget",
+      "item.morethingsmod.redstoneseed": "Redstone Seed",
+      "item.morethingsmod.rubishelmet": "Ruby Helmet",
+      "item.rubyseed.name": "Ruby Seed",
+      "item.morethingsmod.diamondnugget": "Diamond Nugget",
+      "item.uraniumfragment.name": "Uranium Fragments",
+      "item.cobaltbody.name": "Cobalt Chestplate",
+      "item.copperboots.name": "Copper Boots",
+      "item.morethingsmod.pellecopper": "Copper Shovel",
+      "item.houecobalt.name": "Cobalt Hoe",
+      "item.lingotagate.name": "Agate",
+      "item.morethingsmod.emeraudehelmet": "Emerald Helmet",
+      "item.rubishelmet.name": "Ruby Helmet",
+      "item.morethingsmod.lapislazuliseed": "Lapis Lazuli Seed",
+      "item.uraniumnugget.name": "Uranium Nugget",
+      "item.minicioseed.name": "Minicio Seed",
+      "item.morethingsmod.cobaltfragment": "Cobalt Fragments",
+      "item.emeraudebody.name": "Emerald Chestplate",
+      "tile.blockminicio.name": "Minicio Block",
+      "item.emeraldseed.name": "Emerald Seed",
+      "item.morethingsmod.cobaltboots": "Cobalt Boots",
+      "item.cobaltnugget.name": "Cobalt Nugget",
+      "item.morethingsmod.agatenugget": "Agate Nugget",
+      "item.morethingsmod.agatefragment": "Agate Fragments",
+      "item.morethingsmod.hacherubis": "Ruby Axe",
+      "item.morethingsmod.cobaltnugget": "Cobalt Nugget",
+      "item.cobaltfragment.name": "Cobalt Fragments",
+      "block.morethingsmod.blockcopper": "Copper Block",
+      "item.morethingsmod.lingotcobalt": "Cobalt Ingot",
+      "item.emeraudelegs.name": "Emerald Leggings",
+      "item.morethingsmod.emeraldfragment": "Emerald Fragments",
+      "tile.mineraiscopper.name": "Copper Ore",
+      "item.morethingsmod.zivicioseed": "Zivicio Seed",
+      "tile.blockcondensedzivicio.name": "Condensed Zivicio Block",
+      "item.zivicio.name": "Zivicio",
+      "item.diamondnugget.name": "Diamond Nugget",
+      "item.rubynugget.name": "Ruby Nugget",
+      "item.hacheagate.name": "Agate Axe",
+      "item.cobaltlegs.name": "Cobalt Leggings",
+      "item.accioseed.name": "Accio Seed",
+      "item.lingotcopper.name": "Copper Ingot",
+      "item.morethingsmod.uraniumnugget": "Uranium Nugget",
+      "tile.blockcobalt.name": "Cobalt Block",
+      "block.morethingsmod.mineraisrubis": "Ruby Ore",
+      "item.agateseed.name": "Agate Seed",
+      "item.emeraudehelmet.name": "Emerald Helmet",
+      "item.morethingsmod.hachecobalt": "Cobalt Axe",
+      "item.pellecobalt.name": "Cobalt Shovel",
+      "item.morethingsmod.emeraudebody": "Emerald Chestplate",
+      "block.morethingsmod.mineraisminicio": "Minicio Ore",
+      "item.lapislazuliseed.name": "Lapis Lazuli Seed",
+      "item.morethingsmod.agateseed": "Agate Seed",
+      "item.morethingsmod.epeecobalt": "Cobalt Sword",
+      "block.morethingsmod.blockminicio": "Minicio Block",
+      "item.morethingsmod.minicio": "Minicio",
+      "item.copperlegs.name": "Copper Leggings",
+      "item.morethingsmod.cobalthelmet": "Cobalt Helmet",
+      "item.epeecopper.name": "Copper Sword",
+      "item.morethingsmod.goldseed": "Gold Seed",
+      "block.morethingsmod.mineraiscobalt": "Cobalt Ore",
+      "item.houeagate.name": "Agate Hoe",
+      "item.morethingsmod.ironseed": "Iron Seed",
+      "block.morethingsmod.mineraisuranium": "Uranium Ore",
+      "tile.blockzivicio.name": "Zivicio Block",
+      "item.houeemeraude.name": "Emerald Hoe",
+      "item.lingotrubis.name": "Ruby",
+      "item.copperhelmet.name": "Copper Helmet",
+      "item.epeerubis.name": "Ruby Sword",
+      "item.hachecobalt.name": "Cobalt Axe",
+      "item.agatefragment.name": "Agate Fragments",
+      "item.morethingsmod.copperbody": "Copper Chestplate",
+      "tile.mineraisminicio.name": "Minicio Ore",
+      "item.agatebody.name": "Agate Chestplate",
+      "item.morethingsmod.zivicio": "Zivicio",
+      "item.cobaltseed.name": "Cobalt Seed",
+      "item.morethingsmod.uraniumseed": "Uranium Seed",
+      "item.morethingsmod.piochecopper": "Copper Pickaxe",
+      "item.morethingsmod.rubyseed": "Ruby Seed",
+      "item.epeeagate.name": "Agate Sword",
+      "item.hacherubis.name": "Ruby Axe",
+      "item.rubisboots.name": "Ruby Boots",
+      "item.copperfragment.name": "Copper Fragments",
+      "item.morethingsmod.lingotcopper": "Copper Ingot",
+      "item.piochecopper.name": "Copper Pickaxe",
+      "item.epeeemeraude.name": "Emerald Sword",
+      "item.redstoneseed.name": "Redstone Seed",
+      "item.ironfragment.name": "Iron Fragments",
+      "item.emeraudeboots.name": "Emerald Boots",
+      "itemGroup.tabmorethingsmod": "MT-Mod",
+      "item.rubislegs.name": "Ruby Leggings",
+      "tile.mineraisminicioend.name": "End Minicio Ore",
+      "item.morethingsmod.houecopper": "Copper Hoe",
+      "item.morethingsmod.diamondfragment": "Diamond Fragments",
+      "item.morethingsmod.agatehelmet": "Agate Helmet",
+      "item.ironseed.name": "Iron Seed",
+      "item.morethingsmod.minicioseed": "Minicio Seed",
+      "item.morethingsmod.imperio": "Imperio",
+      "block.morethingsmod.mineraisminicionether": "Nether Minicio Ore",
+      "item.crucio.name": "Crucio",
+      "item.morethingsmod.copperfragment": "Copper Fragments",
+      "item.cobaltboots.name": "Cobalt Boots",
+      "item.morethingsmod.emeraudelegs": "Emerald Leggings",
+      "item.imperioseed.name": "Imperio Seed",
+      "item.morethingsmod.piochecobalt": "Cobalt Pickaxe",
+      "block.morethingsmod.blockcondensedzivicio": "Condensed Zivicio Block",
+      "item.morethingsmod.piocheemeraude": "Emerald Pickaxe",
+      "item.emeraldnugget.name": "Emerald Nugget",
+      "item.morethingsmod.coalseed": "Coal Seed",
+      "item.morethingsmod.houerubis": "Ruby Hoe",
+      "item.agatehelmet.name": "Agate Helmet",
+      "item.morethingsmod.hachecopper": "Copper Axe",
+      "item.morethingsmod.cobaltbody": "Cobalt Chestplate",
+      "item.accio.name": "Accio",
+      "item.rubyfragment.name": "Ruby Fragments",
+      "item.morethingsmod.emeraudeboots": "Emerald Boots",
+      "item.houerubis.name": "Ruby Hoe",
+      "item.goldseed.name": "Gold Seed",
+      "item.morethingsmod.epeerubis": "Ruby Sword",
+      "item.morethingsmod.houeemeraude": "Emerald Hoe",
+      "item.morethingsmod.copperlegs": "Copper Leggings",
+      "block.morethingsmod.blockagate": "Agate Block",
+      "item.morethingsmod.epeeagate": "Agate Sword",
+      "item.coppernugget.name": "Copper Nugget",
+      "item.morethingsmod.rubisbody": "Ruby Chestplate",
+      "item.morethingsmod.pelleemeraude": "Emerald Shovel",
+      "item.morethingsmod.agateboots": "Agate Boots",
+      "item.morethingsmod.agatelegs": "Agate Leggings",
+      "block.morethingsmod.blockzivicio": "Zivicio Block",
+      "item.morethingsmod.houecobalt": "Cobalt Hoe",
+      "item.morethingsmod.coppernugget": "Copper Nugget",
+      "item.piocheagate.name": "Agate Pickaxe",
+      "item.morethingsmod.accio": "Accio",
+      "item.houecopper.name": "Copper Hoe",
+      "item.diamondfragment.name": "Diamond Fragments",
+      "item.minicio.name": "Minicio",
+      "tile.mineraisrubis.name": "Ruby Ore",
+      "item.diamondseed.name": "Diamond Seed",
+      "block.morethingsmod.mineraisagate": "Agate Ore",
+      "block.morethingsmod.blockrubis": "Ruby Block",
+      "block.morethingsmod.blockimperio": "Imperio Block",
+      "tile.blockimperio.name": "Imperio Block",
+      "item.morethingsmod.goldfragment": "Gold Fragments",
+      "item.morethingsmod.ironfragment": "Iron Fragments",
+      "item.pellecopper.name": "Copper Shovel"
+    },
+    "fr_fr": {
+      "item.morethingsmod.rubynugget": "Ruby Nugget",
+      "item.morethingsmod.epeeemeraude": "Epée en Emeraude",
+      "item.crucioseed.name": "Crucio Seed",
+      "item.morethingsmod.copperseed": "Graine de Cuivre",
+      "item.morethingsmod.hacheemeraude": "Hache en Emeraude",
+      "item.morethingsmod.copperhelmet": "Casque en Cuivre",
+      "item.morethingsmod.hacheagate": "Hache en Agate",
+      "item.morethingsmod.imperioseed": "Imperio Seed",
+      "item.morethingsmod.piocherubis": "Pioche en Rubis",
+      "item.hacheemeraude.name": "Emerald Axe",
+      "item.morethingsmod.pelleagate": "Pelle en Agate",
+      "item.morethingsmod.cobaltseed": "Cobalt Seed",
+      "item.copperbody.name": "Copper Chestplate",
+      "tile.blockagate.name": "Agate Block",
+      "tile.blockaccio.name": "Accio Block",
+      "item.morethingsmod.cobaltlegs": "Jambières en Cobalt",
+      "tile.blockcopper.name": "Copper Block",
+      "item.morethingsmod.uraniumfragment": "Uranium Fragments",
+      "item.morethingsmod.piocheagate": "Pioche en Agate",
+      "item.morethingsmod.lingotagate": "Agate",
+      "item.morethingsmod.emeraldseed": "Emerald Seed",
+      "item.morethingsmod.rubyfragment": "Ruby Fragments",
+      "item.morethingsmod.copperboots": "Bottes en Cuivre",
+      "item.imperio.name": "Imperio",
+      "item.morethingsmod.rubisboots": "Bottes en Rubis",
+      "item.pelleagate.name": "Agate Shovel",
+      "item.morethingsmod.crucioseed": "Crucio Seed",
+      "item.piocherubis.name": "Ruby Pickaxe",
+      "item.pelleemeraude.name": "Emerald Shovel",
+      "item.piochecobalt.name": "Cobalt Pickaxe",
+      "tile.blockcrucio.name": "Crucio Block",
+      "item.rubisbody.name": "Ruby Chestplate",
+      "item.morethingsmod.rubislegs": "Jambières en Rubis",
+      "item.piocheemeraude.name": "Emerald Pickaxe",
+      "block.morethingsmod.mineraiscopper": "Minerai de Cuivre",
+      "tile.blockrubis.name": "Ruby Block",
+      "item.agatelegs.name": "Agate Leggings",
+      "item.goldfragment.name": "Gold Fragments",
+      "item.morethingsmod.agatebody": "Plastron en Agate",
+      "item.cabaltingot.name": "Cabalt Ingot",
+      "item.morethingsmod.crucio": "Crucio",
+      "item.epeecobalt.name": "Cobalt Sword",
+      "item.morethingsmod.accioseed": "Accio Seed",
+      "item.agateboots.name": "Agate Boots",
+      "tile.mineraisagate.name": "Agate Ore",
+      "tile.mineraiscobalt.name": "Cobalt Ore",
+      "item.uraniumcoal.name": "Uranium Coal",
+      "item.pellerubis.name": "Ruby Shovel",
+      "item.morethingsmod.epeecopper": "Epée en Cuivre",
+      "item.zivicioseed.name": "Zivicio Seed",
+      "item.coalseed.name": "Coal Seed",
+      "item.cobalthelmet.name": "Cobalt Helmet",
+      "item.uraniumseed.name": "Uranium Seed",
+      "block.morethingsmod.blockcrucio": "Crucio Block",
+      "block.morethingsmod.mineraisminicioend": "End Minicio Ore",
+      "item.lingotcobalt.name": "Cobalt Ingot",
+      "tile.mineraisuranium.name": "Uranium Ore",
+      "item.copperseed.name": "Copper Seed",
+      "tile.mineraisminicionether.name": "Nether Minicio Ore",
+      "item.morethingsmod.pellerubis": "Pelle en Rubis",
+      "item.morethingsmod.pellecobalt": "Pelle en Cobalt",
+      "item.hachecopper.name": "Copper Axe",
+      "item.emeraldfragment.name": "Emerald Fragments",
+      "item.morethingsmod.houeagate": "Houe en Agate",
+      "item.morethingsmod.uraniumcoal": "Uranium",
+      "block.morethingsmod.blockcobalt": "Bloc de Cobalt",
+      "item.morethingsmod.diamondseed": "Diamond Seed",
+      "item.morethingsmod.lingotrubis": "Rubis",
+      "block.morethingsmod.blockaccio": "Bloc d\u0027Accio",
+      "item.morethingsmod.emeraldnugget": "Emerald Nugget",
+      "item.agatenugget.name": "Agate Nugget",
+      "item.morethingsmod.redstoneseed": "Graine de Redstone",
+      "item.morethingsmod.rubishelmet": "Casque en Rubis",
+      "item.rubyseed.name": "Ruby Seed",
+      "item.morethingsmod.diamondnugget": "Diamond Nugget",
+      "item.uraniumfragment.name": "Uranium Fragments",
+      "item.cobaltbody.name": "Cobalt Chestplate",
+      "item.copperboots.name": "Copper Boots",
+      "item.morethingsmod.pellecopper": "Pelle en Cuivre",
+      "item.houecobalt.name": "Cobalt Hoe",
+      "item.lingotagate.name": "Agate",
+      "item.morethingsmod.emeraudehelmet": "Casque en Emeraude",
+      "item.rubishelmet.name": "Ruby Helmet",
+      "item.morethingsmod.lapislazuliseed": "Lapis Lazuli Seed",
+      "item.uraniumnugget.name": "Uranium Nugget",
+      "item.minicioseed.name": "Minicio Seed",
+      "item.morethingsmod.cobaltfragment": "Cobalt Fragments",
+      "item.emeraudebody.name": "Emerald Chestplate",
+      "tile.blockminicio.name": "Minicio Block",
+      "item.emeraldseed.name": "Emerald Seed",
+      "item.morethingsmod.cobaltboots": "Bottes en Cobalt",
+      "item.cobaltnugget.name": "Cobalt Nugget",
+      "item.morethingsmod.agatenugget": "Agate Nugget",
+      "item.morethingsmod.agatefragment": "Agate Fragments",
+      "item.morethingsmod.hacherubis": "Hache en Rubis",
+      "item.morethingsmod.cobaltnugget": "Cobalt Nugget",
+      "item.cobaltfragment.name": "Cobalt Fragments",
+      "block.morethingsmod.blockcopper": "Bloc de Cuivre",
+      "item.morethingsmod.lingotcobalt": "Lingot de Cobalt",
+      "item.emeraudelegs.name": "Emerald Leggings",
+      "item.morethingsmod.emeraldfragment": "Emerald Fragment",
+      "tile.mineraiscopper.name": "Copper Ore",
+      "item.morethingsmod.zivicioseed": "Zivicio Seed",
+      "tile.blockcondensedzivicio.name": "Condensed Zivicio Block",
+      "item.zivicio.name": "Zivicio",
+      "item.diamondnugget.name": "Diamond Nugget",
+      "item.rubynugget.name": "Ruby Nugget",
+      "item.hacheagate.name": "Agate Axe",
+      "item.cobaltlegs.name": "Cobalt Leggings",
+      "item.accioseed.name": "Accio Seed",
+      "item.lingotcopper.name": "Copper Ingot",
+      "item.morethingsmod.uraniumnugget": "Uranium Nugget",
+      "tile.blockcobalt.name": "Cobalt Block",
+      "block.morethingsmod.mineraisrubis": "Minerai de Rubis",
+      "item.agateseed.name": "Agate Seed",
+      "item.emeraudehelmet.name": "Emerald Helmet",
+      "item.morethingsmod.hachecobalt": "Hache en Cobalt",
+      "item.pellecobalt.name": "Cobalt Shovel",
+      "item.morethingsmod.emeraudebody": "Plastron en Emeraude",
+      "block.morethingsmod.mineraisminicio": "Minicio Ore",
+      "item.lapislazuliseed.name": "Lapis Lazuli Seed",
+      "item.morethingsmod.agateseed": "Agate Seed",
+      "item.morethingsmod.epeecobalt": "Epée en Cobalt",
+      "block.morethingsmod.blockminicio": "Minicio Block",
+      "item.morethingsmod.minicio": "Minicio",
+      "item.copperlegs.name": "Copper Leggings",
+      "item.morethingsmod.cobalthelmet": "Casque en Cobalt",
+      "item.epeecopper.name": "Copper Sword",
+      "item.morethingsmod.goldseed": "Gold Seed",
+      "block.morethingsmod.mineraiscobalt": "Minerai de Cobalt",
+      "item.houeagate.name": "Agate Hoe",
+      "item.morethingsmod.ironseed": "Iron Seed",
+      "block.morethingsmod.mineraisuranium": "Minerai d\u0027Uranium",
+      "tile.blockzivicio.name": "Zivicio Block",
+      "item.houeemeraude.name": "Emerald Hoe",
+      "item.lingotrubis.name": "Ruby",
+      "item.copperhelmet.name": "Copper Helmet",
+      "item.epeerubis.name": "Ruby Sword",
+      "item.hachecobalt.name": "Cobalt Axe",
+      "item.agatefragment.name": "Agate Fragments",
+      "item.morethingsmod.copperbody": "Plastron en Cuivre",
+      "tile.mineraisminicio.name": "Minicio Ore",
+      "item.agatebody.name": "Agate Chestplate",
+      "item.morethingsmod.zivicio": "Zivicio",
+      "item.cobaltseed.name": "Cobalt Seed",
+      "item.morethingsmod.uraniumseed": "Uranium Seed",
+      "item.morethingsmod.piochecopper": "Pioche en Cuivre",
+      "item.morethingsmod.rubyseed": "Ruby Seed",
+      "item.epeeagate.name": "Agate Sword",
+      "item.hacherubis.name": "Ruby Axe",
+      "item.rubisboots.name": "Ruby Boots",
+      "item.copperfragment.name": "Copper Fragments",
+      "item.morethingsmod.lingotcopper": "Lingot de Cuivre",
+      "item.piochecopper.name": "Copper Pickaxe",
+      "item.epeeemeraude.name": "Emerald Sword",
+      "item.redstoneseed.name": "Redstone Seed",
+      "item.ironfragment.name": "Iron Fragments",
+      "item.emeraudeboots.name": "Emerald Boots",
+      "itemGroup.tabmorethingsmod": "MT-Mod",
+      "item.rubislegs.name": "Ruby Leggings",
+      "tile.mineraisminicioend.name": "End Minicio Ore",
+      "item.morethingsmod.houecopper": "Houe en Cuivre",
+      "item.morethingsmod.diamondfragment": "Diamond Fragments",
+      "item.morethingsmod.agatehelmet": "Casque en Agate",
+      "item.ironseed.name": "Iron Seed",
+      "item.morethingsmod.minicioseed": "Minicio Seed",
+      "item.morethingsmod.imperio": "Imperio",
+      "block.morethingsmod.mineraisminicionether": "Minerai de Minicio du Nether",
+      "item.crucio.name": "Crucio",
+      "item.morethingsmod.copperfragment": "Copper Fragments",
+      "item.cobaltboots.name": "Cobalt Boots",
+      "item.morethingsmod.emeraudelegs": "Jambières en Emeraude",
+      "item.imperioseed.name": "Imperio Seed",
+      "item.morethingsmod.piochecobalt": "Pioche en Cobalt",
+      "block.morethingsmod.blockcondensedzivicio": "Condensed Zivicio Block",
+      "item.morethingsmod.piocheemeraude": "Pioche en Emeraude",
+      "item.emeraldnugget.name": "Emerald Nugget",
+      "item.morethingsmod.coalseed": "Coal Seed",
+      "item.morethingsmod.houerubis": "Houe en Rubis",
+      "item.agatehelmet.name": "Agate Helmet",
+      "item.morethingsmod.hachecopper": "Hache en Cuivre",
+      "item.morethingsmod.cobaltbody": "Plastron en Cobalt",
+      "item.accio.name": "Accio",
+      "item.rubyfragment.name": "Ruby Fragments",
+      "item.morethingsmod.emeraudeboots": "Bottes en Emeraude",
+      "item.houerubis.name": "Ruby Hoe",
+      "item.goldseed.name": "Gold Seed",
+      "item.morethingsmod.epeerubis": "Epée en Rubis",
+      "item.morethingsmod.houeemeraude": "Houe en Emeraude",
+      "item.morethingsmod.copperlegs": "Jambières en Cuivre",
+      "block.morethingsmod.blockagate": "Bloc d\u0027Agate",
+      "item.morethingsmod.epeeagate": "Epée en Agate",
+      "item.coppernugget.name": "Copper Nugget",
+      "item.morethingsmod.rubisbody": "Plastron en Rubis",
+      "item.morethingsmod.pelleemeraude": "Pioche en Emeraude",
+      "item.morethingsmod.agateboots": "Bottes en Agate",
+      "item.morethingsmod.agatelegs": "Jambières en Agate",
+      "block.morethingsmod.blockzivicio": "Zivicio Block",
+      "item.morethingsmod.houecobalt": "Houe en Cobalt",
+      "item.morethingsmod.coppernugget": "Copper Nugget",
+      "item.piocheagate.name": "Agate Pickaxe",
+      "item.morethingsmod.accio": "Accio",
+      "item.houecopper.name": "Copper Hoe",
+      "item.diamondfragment.name": "Diamond Fragments",
+      "item.minicio.name": "Minicio",
+      "tile.mineraisrubis.name": "Ruby Ore",
+      "item.diamondseed.name": "Diamond Seed",
+      "block.morethingsmod.mineraisagate": "Minerai d\u0027Agate",
+      "block.morethingsmod.blockrubis": "Bloc de Cobalt",
+      "block.morethingsmod.blockimperio": "Imperio Block",
+      "tile.blockimperio.name": "Imperio Block",
+      "item.morethingsmod.goldfragment": "Gold Fragment",
+      "item.morethingsmod.ironfragment": "Iron Fragment",
+      "item.pellecopper.name": "Copper Shovel"
+    }
+  },
+  "workspaceSettings": {
+    "modid": "morethingsmod",
+    "modName": "MoreThingsMod",
+    "version": "1.0.0",
+    "description": "Ajouts de différents items.",
+    "author": "Cardian - exe76",
+    "websiteURL": "https://mcreator.net",
+    "disableForgeVersionCheck": true,
+    "serverSideOnly": false,
+    "requiredMods": [],
+    "dependencies": [],
+    "dependants": [],
+    "mcreatorDependencies": [],
+    "currentGenerator": "1.12.2",
+    "usesProFeatures": false,
+    "lockBaseModFiles": false
+  },
+  "mcreatorVersion": 202000105419
+}

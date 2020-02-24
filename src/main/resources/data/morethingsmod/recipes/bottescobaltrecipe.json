@@ -1,0 +1,26 @@
+{
+  "group": "morethingsmod",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0 2",
+    "3 5"
+  ],
+  "key": {
+    "0": {
+      "item": "morethingsmod:lingotcobalt"
+    },
+    "2": {
+      "item": "morethingsmod:lingotcobalt"
+    },
+    "3": {
+      "item": "morethingsmod:lingotcobalt"
+    },
+    "5": {
+      "item": "morethingsmod:lingotcobalt"
+    }
+  },
+  "result": {
+    "item": "morethingsmod:cobaltboots",
+    "count": 1
+  }
+}

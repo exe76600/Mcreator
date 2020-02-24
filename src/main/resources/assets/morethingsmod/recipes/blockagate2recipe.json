@@ -1,0 +1,13 @@
+{
+  "group": "morethingsmod",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "morethingsmod:blockagate"
+    }
+  ],
+  "result": {
+    "item": "morethingsmod:lingotagate",
+    "count": 9
+  }
+}

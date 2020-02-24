@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "morethingsmod:blocks/rubis_ore",
+    "up": "morethingsmod:blocks/rubis_ore",
+    "north": "morethingsmod:blocks/rubis_ore",
+    "east": "morethingsmod:blocks/rubis_ore",
+    "south": "morethingsmod:blocks/rubis_ore",
+    "west": "morethingsmod:blocks/rubis_ore",
+    "particle": "morethingsmod:blocks/rubis_ore"
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "group": "morethingsmod",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " 1 ",
+    "345",
+    " 7 "
+  ],
+  "key": {
+    "1": {
+      "item": "morethingsmod:minicio"
+    },
+    "3": {
+      "item": "morethingsmod:minicio"
+    },
+    "4": {
+      "item": "minecraft:wheat_seeds"
+    },
+    "5": {
+      "item": "morethingsmod:minicio"
+    },
+    "7": {
+      "item": "morethingsmod:minicio"
+    }
+  },
+  "result": {
+    "item": "morethingsmod:minicioseed",
+    "count": 1
+  }
+}

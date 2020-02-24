@@ -1,0 +1,45 @@
+{
+  "_fv": 5,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "recipeRetstackSize": 1,
+    "recipeShapeless": false,
+    "recipeReturnStack": {
+      "value": "CUSTOM:CrucioSeed"
+    },
+    "recipeSlots": [
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:Crucio"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:Crucio"
+      },
+      {
+        "value": "CUSTOM:AccioSeed"
+      },
+      {
+        "value": "CUSTOM:Crucio"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:Crucio"
+      },
+      {
+        "value": ""
+      }
+    ],
+    "smeltingXPReward": 0.0,
+    "smeltingRetstackSize": 1,
+    "name": "crucioseedrecipe",
+    "namespace": "mod"
+  }
+}

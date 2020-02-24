@@ -1,0 +1,42 @@
+{
+  "group": "morethingsmod",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "morethingsmod:emeraldnugget"
+    },
+    "1": {
+      "item": "morethingsmod:emeraldnugget"
+    },
+    "2": {
+      "item": "morethingsmod:emeraldnugget"
+    },
+    "3": {
+      "item": "morethingsmod:emeraldnugget"
+    },
+    "4": {
+      "item": "morethingsmod:emeraldnugget"
+    },
+    "5": {
+      "item": "morethingsmod:emeraldnugget"
+    },
+    "6": {
+      "item": "morethingsmod:emeraldnugget"
+    },
+    "7": {
+      "item": "morethingsmod:emeraldnugget"
+    },
+    "8": {
+      "item": "morethingsmod:emeraldnugget"
+    }
+  },
+  "result": {
+    "item": "minecraft:emerald",
+    "count": 1
+  }
+}
